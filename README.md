@@ -9,18 +9,20 @@ We start to focus on the first part of our data which includes information on em
 
 ![CODE1](Images/retirement_titles.png)
 
-When we take a closer look we see that some of the employees show up in our csv files mutliple times and that is beacuse over the years of their employement they could have switched job titles or took early retirement. After we created a code to remove all the duplicates we came up with 72,458 current employees that are elgible to retire.
+When we take a closer look we see that some of the employees show up in our csv files mutliple times and that is beacuse over the years of their employees could have switched job titles or took early retirement. After we created a code to remove all the duplicates we came up with 72,458 current employees that are elgible to retire.
 
 ![CODE1](Images/unique_titles.png)
 
+For us to have a better understanding we created a code to tell us exactly which titles will need the most attention. 
 
-[CODE1](Images/retiring_titles.png)
+![CODE1](Images/retiring_titles.png)
 
 Next we look at the mentorship eligibility. With creating this csv file we can see how many current employees could be mentored to replace some of the employees that are retiring. While creating this code we had to focus on their birth date and when they started with the company. 
 
-![CODE1](Images/mentor_elg.png)
+![CODE1](Images/mentorship_eligibilty.png)
 
-After runnig the code we get that only 1,550 current employees that are eligable for mentoring program thta could lead them to go to a different department. 
+After runnig the code we get that only 1,550 current employees that are eligable for mentoring program that could lead them to go to a different department. 
 
 # Summary 
+
 
