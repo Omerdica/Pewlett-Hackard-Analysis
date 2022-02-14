@@ -1,0 +1,2383 @@
+hire_date,first_name,last_name,title
+1999-11-21,Alexius,Plavsic,Senior Engineer
+1999-10-26,Gudjon,Majewski,Senior Engineer
+1999-08-17,Arumugam,Pelc,Senior Engineer
+1999-07-21,Hailing,Levergood,Staff
+1999-06-08,Jaques,Gecsei,Staff
+1999-05-22,Leen,Peak,Engineer
+1999-03-03,Leszek,Werthner,Staff
+1999-02-25,Piyawadee,Leppanen,Senior Staff
+1999-02-07,Mamdouh,Ramamoorthy,Senior Engineer
+1999-02-01,Lalit,Blokdijk,Senior Engineer
+1999-01-20,Kazuhiko,Marshall,Staff
+1999-01-19,Chiradeep,Callaway,Staff
+1998-11-18,Palash,Trelles,Engineer
+1998-10-01,Feiyu,Siepmann,Senior Engineer
+1998-09-15,Garnik,Luce,Staff
+1998-09-09,Tua,Giveon,Technique Leader
+1998-08-22,Zita,Hiltgen,Staff
+1998-08-16,Sigeru,Versino,Engineer
+1998-07-23,Morrie,Schurmann,Staff
+1998-07-08,Terresa,Vigier,Staff
+1998-07-07,Pranjal,Rossi,Staff
+1998-06-23,Annemarie,Bressoud,Engineer
+1998-06-23,Susumu,Fritzsche,Engineer
+1998-06-22,Dayanand,Wielonsky,Staff
+1998-06-18,Lobel,Stafford,Staff
+1998-06-15,George,Casperson,Staff
+1998-05-31,Eberhardt,Carrera,Staff
+1998-05-19,Shuho,Laurillard,Technique Leader
+1998-05-02,Tommaso,Vidya,Engineer
+1998-04-02,Piyush,Danecki,Engineer
+1998-03-30,Ramalingam,Remmele,Senior Engineer
+1998-03-17,Keung,Schapiro,Senior Engineer
+1998-03-13,Satoru,Vidal,Assistant Engineer
+1998-03-05,Goo,Bresenham,Senior Staff
+1998-03-04,Hidefumi,Moehrke,Staff
+1998-02-23,Jianhua,Huttel,Engineer
+1998-02-21,Alexius,Crouzet,Staff
+1997-11-30,Taisook,Kampfer,Engineer
+1997-11-29,Maren,DuCasse,Engineer
+1997-11-21,Yongdong,Pollock,Staff
+1997-11-19,Utpal,DuBourdieux,Technique Leader
+1997-11-12,Breannda,Cangellaris,Staff
+1997-11-03,Padma,Delgrange,Senior Staff
+1997-10-30,Lidong,Swist,Engineer
+1997-10-29,Yechezkel,Yurov,Senior Engineer
+1997-10-24,Baocai,Leaver,Senior Staff
+1997-10-15,Haldun,Compeau,Senior Staff
+1997-10-02,Aron,Harbusch,Staff
+1997-09-24,Limsoon,Erol,Senior Engineer
+1997-09-10,Douadi,Sullins,Senior Staff
+1997-08-25,Kien,Barreiro,Staff
+1997-08-22,Leucio,Cappelli,Staff
+1997-08-06,Fumitaka,Roohalamini,Staff
+1997-07-08,Ferdinand,Rosiles,Senior Staff
+1997-07-05,Eberhardt,Spelt,Staff
+1997-07-04,Mari,Plessier,Senior Engineer
+1997-06-17,Avishai,Majewski,Engineer
+1997-05-25,Frazer,Candan,Senior Engineer
+1997-05-17,Naraig,Docker,Staff
+1997-05-09,Mohammed,Georg,Engineer
+1997-05-09,Wayne,Baba,Engineer
+1997-04-20,Gino,Lagarias,Engineer
+1997-04-10,Itzchak,Penn,Staff
+1997-04-04,Chiranjit,Serot,Staff
+1997-03-31,Tru,Danecki,Staff
+1997-03-15,Maha,Waterhouse,Senior Staff
+1997-03-15,Maha,Waterhouse,Staff
+1997-03-10,Kwan,Kampfer,Staff
+1997-03-04,Willard,Vernadat,Engineer
+1997-03-03,Changho,Veevers,Senior Staff
+1997-03-02,Yahiko,Awdeh,Engineer
+1997-02-24,Bader,Denis,Engineer
+1997-02-09,Alenka,Ritcey,Engineer
+1997-02-02,Pramod,Bierman,Engineer
+1997-01-30,Siddarth,Cappelletti,Staff
+1997-01-29,Chinya,Cooke,Engineer
+1997-01-25,Berna,Schonegge,Staff
+1997-01-20,Kwun,Reeker,Technique Leader
+1997-01-15,Siddarth,Masada,Staff
+1996-12-24,Behnaam,Bierbaum,Engineer
+1996-12-23,Oldrich,Adachi,Engineer
+1996-12-23,Oldrich,Adachi,Senior Engineer
+1996-11-29,Francoise,Hegner,Senior Staff
+1996-11-20,Masasuke,Koprowski,Staff
+1996-11-17,Sandeepan,Kulisch,Engineer
+1996-11-11,Menkae,Etalle,Assistant Engineer
+1996-11-11,Menkae,Etalle,Engineer
+1996-11-10,Alois,Sanella,Staff
+1996-11-09,Harngdar,Schapire,Engineer
+1996-11-09,Harngdar,Schapire,Senior Engineer
+1996-10-26,Feixiong,Haraldson,Staff
+1996-10-08,Xinan,Rindone,Engineer
+1996-10-06,Mooi,Stafford,Senior Engineer
+1996-10-01,Zhanqiu,Farrow,Assistant Engineer
+1996-09-26,Kristina,Baumann,Assistant Engineer
+1996-08-29,Sajjan,Falby,Staff
+1996-08-29,Tommaso,Raczkowsky,Staff
+1996-08-26,Jianhao,Tomescu,Engineer
+1996-08-22,Herbert,Hammerschmidt,Engineer
+1996-08-22,Herbert,Hammerschmidt,Senior Engineer
+1996-08-20,Yongqiao,Francisci,Engineer
+1996-08-19,Younwoo,Samarati,Senior Engineer
+1996-08-18,Kish,Herbst,Staff
+1996-08-15,Mansur,Comyn,Engineer
+1996-07-25,Phillip,Oxenboll,Engineer
+1996-07-15,Menkae,Showalter,Engineer
+1996-07-15,Menkae,Showalter,Senior Engineer
+1996-07-12,Luisa,Baig,Engineer
+1996-07-12,Luisa,Baig,Senior Engineer
+1996-06-26,Yefim,Bernardeschi,Senior Staff
+1996-06-26,Yefim,Bernardeschi,Staff
+1996-06-15,Georgy,Bennis,Engineer
+1996-06-14,Kazuhide,Snedden,Senior Engineer
+1996-06-03,George,Atchley,Staff
+1996-05-25,Alair,Lyonns,Engineer
+1996-05-18,Florina,Assaf,Staff
+1996-05-18,Sariel,Wynblatt,Assistant Engineer
+1996-05-17,True,Shobatake,Senior Staff
+1996-05-11,Ranga,Merro,Assistant Engineer
+1996-05-06,Poorav,Clouatre,Senior Engineer
+1996-04-12,Breannda,Maquelin,Senior Staff
+1996-03-23,Xiaoqiang,Farrow,Staff
+1996-03-18,Vidar,Gunderson,Senior Staff
+1996-03-13,Unal,DuBourdieux,Engineer
+1996-03-05,Babette,Eugenio,Staff
+1996-03-01,Gao,Lally,Staff
+1996-02-29,Xiadong,Shinomoto,Engineer
+1996-02-29,Xiadong,Shinomoto,Senior Engineer
+1996-02-13,Raimond,Solovay,Staff
+1996-02-10,Alair,Nanard,Staff
+1996-02-10,Mohan,Tasistro,Engineer
+1996-02-05,Arup,Colorni,Senior Staff
+1996-01-24,Sivanarayana,Chandrasekhar,Senior Staff
+1996-01-11,Kwangjo,Menhardt,Engineer
+1996-01-09,Cristinel,Gerlach,Engineer
+1996-01-09,Cristinel,Gerlach,Senior Engineer
+1996-01-05,Mitsuyuki,Zockler,Technique Leader
+1995-12-24,Nagui,Gruenwald,Engineer
+1995-12-10,Falguni,Pezzoli,Engineer
+1995-12-08,Badri,Schapire,Assistant Engineer
+1995-12-04,Mart,Talmor,Staff
+1995-11-26,Adly,Hambrick,Staff
+1995-11-15,Moni,Staudhammer,Engineer
+1995-11-01,Arch,Basawa,Staff
+1995-10-19,Adin,Templeman,Engineer
+1995-10-12,Mingsen,Weiland,Staff
+1995-09-23,Heekeun,Emmart,Assistant Engineer
+1995-09-23,Heekeun,Emmart,Engineer
+1995-08-27,Sanjay,Litecky,Engineer
+1995-08-27,Sanjay,Litecky,Senior Engineer
+1995-08-24,Kazuyasu,Levergood,Engineer
+1995-08-22,Changho,Cappelli,Staff
+1995-08-18,Nahid,Gyimothy,Staff
+1995-08-09,Poorav,Ranst,Senior Engineer
+1995-08-06,Huan,Olivero,Staff
+1995-08-02,Marsal,Acton,Staff
+1995-08-01,Divine,Ghandeharizadeh,Staff
+1995-07-24,Sailaja,Fujisaki,Assistant Engineer
+1995-07-08,Krisda,Hainaut,Senior Staff
+1995-07-08,Krisda,Hainaut,Staff
+1995-07-04,Tetsushi,Conta,Senior Staff
+1995-06-30,Oscar,Oppitz,Senior Staff
+1995-06-30,Oscar,Oppitz,Staff
+1995-06-22,Alper,Tiemann,Engineer
+1995-06-16,Zita,Syang,Staff
+1995-06-14,Shigeichiro,Brattka,Senior Staff
+1995-06-14,Shigeichiro,Brattka,Staff
+1995-06-09,Vidar,Ozeki,Technique Leader
+1995-06-06,Reinhold,Rahier,Engineer
+1995-06-06,Zsolt,Brender,Senior Staff
+1995-05-28,Marco,Usdin,Engineer
+1995-05-25,Kamakshi,Schusler,Engineer
+1995-05-25,Kamakshi,Schusler,Senior Engineer
+1995-05-22,Mang,Hedayat,Engineer
+1995-05-18,Leszek,Marchegay,Engineer
+1995-05-15,Marek,Tomescu,Engineer
+1995-05-15,Marek,Tomescu,Senior Engineer
+1995-05-12,Domenick,Basart,Senior Staff
+1995-05-12,Domenick,Basart,Staff
+1995-05-12,Shigeo,Emmart,Assistant Engineer
+1995-05-09,Florian,Tramer,Engineer
+1995-04-27,Xumin,Beidas,Technique Leader
+1995-04-20,Toshiko,Ibel,Senior Engineer
+1995-04-18,Rasiah,Sudkamp,Senior Engineer
+1995-04-16,Tze,Bach,Engineer
+1995-04-07,Alper,Shinomoto,Engineer
+1995-04-07,Sibyl,Rabehasaina,Senior Staff
+1995-04-03,Hein,Lichtner,Senior Staff
+1995-04-03,Hein,Lichtner,Staff
+1995-03-27,Gila,Ramsak,Senior Engineer
+1995-03-23,Percy,Sudbeck,Assistant Engineer
+1995-03-23,Yishai,Cappelli,Staff
+1995-03-19,Sverrir,Neimat,Staff
+1995-03-13,Yechiam,Cairo,Senior Staff
+1995-03-12,Vasiliy,Ratnaker,Engineer
+1995-03-05,IEEE,Raczkowsky,Technique Leader
+1995-03-02,Arvin,Pusterhofer,Engineer
+1995-03-02,Arvin,Pusterhofer,Senior Engineer
+1995-03-02,Etsuo,Usery,Engineer
+1995-03-02,Etsuo,Usery,Senior Engineer
+1995-03-02,Hitomi,Schaap,Staff
+1995-03-01,Filipp,Winter,Engineer
+1995-03-01,Filipp,Winter,Senior Engineer
+1995-02-21,Yucel,Lortz,Engineer
+1995-02-08,Danny,Lowrie,Technique Leader
+1995-02-08,Joydip,Krone,Engineer
+1995-01-31,Yuping,Babb,Senior Staff
+1995-01-31,Yuping,Babb,Staff
+1995-01-25,Kazuhide,Biran,Senior Staff
+1995-01-23,Flemming,Kroha,Staff
+1995-01-23,Muzhong,Berztiss,Senior Staff
+1995-01-23,Muzhong,Berztiss,Staff
+1995-01-20,Nigel,Zirintsis,Engineer
+1995-01-19,Dekang,Tsunoo,Technique Leader
+1995-01-07,Tadahiko,Melton,Engineer
+1994-12-29,Lobel,Aloia,Senior Staff
+1994-12-26,Arnould,Buescher,Engineer
+1994-12-25,Jiakeng,Kalorkoti,Engineer
+1994-12-25,Jiakeng,Kalorkoti,Senior Engineer
+1994-12-25,Yuichiro,Bale,Technique Leader
+1994-12-21,Jouko,Hellwagner,Senior Engineer
+1994-12-12,Tonny,Couchot,Staff
+1994-12-07,Youjian,Yetto,Senior Staff
+1994-12-07,Youjian,Yetto,Staff
+1994-12-03,Kokou,Garrabrants,Senior Engineer
+1994-11-25,Hiroyasu,Provine,Engineer
+1994-11-24,Gao,Ranze,Engineer
+1994-11-24,Gao,Ranze,Senior Engineer
+1994-11-20,Laurentiu,Benzmuller,Senior Engineer
+1994-11-15,Thodoros,Thimonier,Engineer
+1994-11-14,Poorav,Laventhal,Staff
+1994-11-12,Godehard,Chinal,Assistant Engineer
+1994-11-10,Chiranjit,Dredge,Technique Leader
+1994-11-08,Vojin,Coombs,Senior Staff
+1994-11-08,Vojin,Coombs,Staff
+1994-11-07,Odoardo,Tyugu,Engineer
+1994-11-04,Kellyn,Bage,Senior Staff
+1994-11-03,Yechezkel,Perfilyeva,Engineer
+1994-11-03,Yechezkel,Perfilyeva,Senior Engineer
+1994-11-01,Weiwu,Butner,Staff
+1994-10-20,Sedat,Rande,Senior Staff
+1994-10-20,Sedat,Rande,Staff
+1994-10-17,Gunilla,Milicic,Staff
+1994-10-17,Jaques,Nanard,Staff
+1994-09-25,Reinhold,Binkley,Engineer
+1994-09-25,Reinhold,Binkley,Senior Engineer
+1994-09-22,Uno,Solares,Senior Staff
+1994-09-22,Uno,Solares,Staff
+1994-09-15,Lihong,Zeilberger,Staff
+1994-09-13,Mizuhito,Kobara,Senior Staff
+1994-09-13,Mizuhito,Kobara,Staff
+1994-09-13,Xinyu,Edelhoff,Senior Engineer
+1994-09-04,Soenke,Lemarechal,Senior Staff
+1994-09-04,Soenke,Lemarechal,Staff
+1994-09-03,Sorina,Lakshmanan,Staff
+1994-08-15,Susanna,Reeken,Senior Staff
+1994-08-09,Vesna,Fairtlough,Engineer
+1994-08-08,Aram,Passino,Senior Engineer
+1994-08-07,Ewing,Rajala,Senior Staff
+1994-08-07,Ewing,Rajala,Staff
+1994-08-06,Moon,Pews,Assistant Engineer
+1994-08-05,Rosita,Pokrovskii,Senior Staff
+1994-07-25,Werner,Ranze,Staff
+1994-07-21,Moni,Kohling,Staff
+1994-07-19,Murthy,Peek,Engineer
+1994-07-17,Ewing,Millington,Engineer
+1994-06-27,Jordanka,Axelband,Senior Staff
+1994-06-13,Temple,Danlos,Senior Staff
+1994-05-28,Morris,Garigliano,Senior Staff
+1994-05-28,Morris,Garigliano,Staff
+1994-05-19,Fai,Keirsey,Engineer
+1994-05-19,Fai,Keirsey,Senior Engineer
+1994-05-10,Mori,Homond,Senior Staff
+1994-05-10,Mori,Homond,Staff
+1994-05-05,Yonghong,Baig,Staff
+1994-05-04,Hideyuki,Decleir,Senior Engineer
+1994-04-30,Shakhar,Ranze,Staff
+1994-04-28,Baoqiu,Tomescu,Senior Engineer
+1994-04-28,Renny,Alameldin,Assistant Engineer
+1994-04-22,Magdalena,Cannard,Engineer
+1994-04-22,Magdalena,Cannard,Senior Engineer
+1994-04-12,Genta,Pepe,Senior Staff
+1994-04-12,Genta,Pepe,Staff
+1994-04-11,Pramod,Wendorf,Engineer
+1994-04-09,Udi,Rullman,Senior Engineer
+1994-04-08,Sampalli,Bergere,Senior Engineer
+1994-04-02,Isaac,Klerer,Senior Staff
+1994-04-02,Isaac,Klerer,Staff
+1994-03-30,Shen,Yamaashi,Staff
+1994-03-18,Jinpo,Heyers,Staff
+1994-03-18,Tzu,Bakhtari,Engineer
+1994-03-18,Tzu,Bakhtari,Senior Engineer
+1994-03-16,Caolyn,Marciano,Senior Engineer
+1994-03-13,Ewing,Kalorkoti,Engineer
+1994-02-27,Genta,Terekhov,Assistant Engineer
+1994-02-26,Kagan,Dredge,Engineer
+1994-02-26,Kagan,Dredge,Senior Engineer
+1994-02-25,Khatoun,Pulkowski,Engineer
+1994-02-25,Udo,Ratnakar,Staff
+1994-02-16,Almudena,Rijckaert,Engineer
+1994-02-16,Almudena,Rijckaert,Senior Engineer
+1994-02-10,Minghong,Candan,Assistant Engineer
+1994-02-04,Vatsa,Ramsay,Senior Staff
+1994-02-04,Vatsa,Ramsay,Staff
+1994-01-29,Tsz,Daescu,Staff
+1994-01-27,Toshimitsu,Seuren,Senior Staff
+1994-01-27,Toshimitsu,Seuren,Staff
+1994-01-16,Kwangyoen,Peck,Engineer
+1994-01-13,Zhaofang,Penn,Senior Staff
+1994-01-13,Zhaofang,Penn,Staff
+1994-01-12,Zsolt,Hagimont,Senior Staff
+1994-01-12,Zsolt,Hagimont,Staff
+1994-01-06,Felicidad,Kumaresan,Senior Staff
+1994-01-06,Felicidad,Kumaresan,Staff
+1994-01-05,Michaela,Otillio,Engineer
+1993-12-26,Sanjeeva,Peron,Engineer
+1993-12-26,Sanjeeva,Peron,Senior Engineer
+1993-12-25,Mariangiola,Bashian,Engineer
+1993-12-24,Hinrich,Scallan,Staff
+1993-12-16,Valeska,Cools,Senior Staff
+1993-12-16,Valeska,Cools,Staff
+1993-12-07,Ennio,Babu,Senior Engineer
+1993-12-06,Pasqua,Maraist,Engineer
+1993-12-06,Pasqua,Maraist,Senior Engineer
+1993-11-30,Elliott,Speer,Engineer
+1993-11-21,Tooru,Veldwijk,Senior Staff
+1993-11-21,Tooru,Veldwijk,Staff
+1993-11-20,Bodo,Halevi,Engineer
+1993-11-19,Koldo,Luit,Engineer
+1993-11-19,Koldo,Luit,Senior Engineer
+1993-11-15,Arfst,Uehara,Senior Staff
+1993-11-15,Ziya,Zambonelli,Engineer
+1993-11-14,Mariusz,Vural,Engineer
+1993-11-14,Mariusz,Vural,Senior Engineer
+1993-11-03,Tomofumi,Serna,Staff
+1993-10-27,IEEE,Kroll,Engineer
+1993-10-23,Shigeaki,Gihr,Engineer
+1993-10-23,Shigeaki,Gihr,Senior Engineer
+1993-10-20,Somnath,Cummings,Senior Staff
+1993-10-20,Somnath,Cummings,Staff
+1993-10-14,Matt,Ruemmler,Engineer
+1993-10-04,Honglan,Hutton,Engineer
+1993-10-04,Honglan,Hutton,Senior Engineer
+1993-10-02,Leif,Ashish,Senior Staff
+1993-10-02,Leif,Ashish,Staff
+1993-09-22,Arvin,Rabejac,Engineer
+1993-09-22,Arvin,Rabejac,Senior Engineer
+1993-09-22,Baziley,Brookner,Engineer
+1993-09-22,Baziley,Brookner,Senior Engineer
+1993-09-20,Nevin,Rodham,Senior Staff
+1993-09-16,Irene,Sethi,Senior Engineer
+1993-09-16,Keiichiro,Glinert,Engineer
+1993-09-16,Keiichiro,Glinert,Senior Engineer
+1993-09-15,Heather,Pehl,Staff
+1993-09-11,Rayond,Klassen,Senior Staff
+1993-09-11,Rayond,Klassen,Staff
+1993-09-07,Supot,Badache,Engineer
+1993-08-26,Tianruo,Strooper,Senior Staff
+1993-08-26,Tianruo,Strooper,Staff
+1993-08-19,Paris,Lieblein,Engineer
+1993-08-19,Sailaja,Chvatal,Staff
+1993-08-17,Kasidit,Papsdorf,Engineer
+1993-08-17,Kasidit,Papsdorf,Senior Engineer
+1993-08-16,Otmar,Engberts,Senior Staff
+1993-08-16,Otmar,Engberts,Staff
+1993-08-13,Marco,Jahnichen,Senior Staff
+1993-08-09,Anwar,Gubsky,Senior Staff
+1993-08-09,Anwar,Gubsky,Staff
+1993-08-09,Susuma,Bergere,Senior Staff
+1993-08-07,Valdiodio,Schlumberger,Assistant Engineer
+1993-08-07,Valdiodio,Schlumberger,Engineer
+1993-08-07,Yefim,Pettey,Senior Staff
+1993-08-07,Yefim,Pettey,Staff
+1993-08-04,Claude,Candan,Senior Staff
+1993-08-02,Juyoung,Seghrouchni,Senior Engineer
+1993-07-28,Dhritiman,Anily,Staff
+1993-07-26,Yongmao,Fontan,Engineer
+1993-07-26,Yongmao,Fontan,Senior Engineer
+1993-07-16,Kerhong,Lorho,Staff
+1993-07-15,Holgard,Hegner,Senior Staff
+1993-07-15,Holgard,Hegner,Staff
+1993-07-15,Youjian,Felder,Senior Staff
+1993-07-15,Youjian,Felder,Staff
+1993-07-08,Arra,Esposito,Staff
+1993-07-04,Elliott,Copas,Engineer
+1993-07-04,Elliott,Copas,Senior Engineer
+1993-06-30,Limsoon,Skafidas,Senior Staff
+1993-06-28,Mitsuyuki,Isard,Engineer
+1993-06-28,Younwoo,Luders,Engineer
+1993-06-28,Younwoo,Luders,Senior Engineer
+1993-06-26,Zhiguo,Ariola,Senior Staff
+1993-06-16,Tooru,Daescu,Senior Staff
+1993-06-14,Tomokazu,Pargas,Assistant Engineer
+1993-06-14,Tomokazu,Pargas,Engineer
+1993-06-12,Jayson,Zockler,Staff
+1993-06-10,Erzsebet,Setiz,Engineer
+1993-06-10,Erzsebet,Setiz,Senior Engineer
+1993-06-09,Ronghao,Picaronny,Assistant Engineer
+1993-06-09,Ronghao,Picaronny,Engineer
+1993-06-07,Leen,Lamparter,Engineer
+1993-06-07,Leen,Lamparter,Senior Engineer
+1993-06-01,Baziley,Falck,Assistant Engineer
+1993-06-01,Indrajit,Krogh,Engineer
+1993-05-22,Shietung,Gelosh,Engineer
+1993-05-22,Shietung,Gelosh,Senior Engineer
+1993-05-19,Huiqun,Henders,Senior Staff
+1993-05-10,Huiqun,Trystram,Senior Engineer
+1993-05-09,Bezalel,Karner,Staff
+1993-05-08,Avishai,Hegner,Senior Staff
+1993-05-08,Avishai,Hegner,Staff
+1993-05-05,Atreye,Stanger,Assistant Engineer
+1993-05-05,Atreye,Stanger,Engineer
+1993-04-29,Stein,Perng,Senior Staff
+1993-04-29,Stein,Perng,Staff
+1993-04-28,Zijian,Lammel,Staff
+1993-04-21,Doowon,Schoegge,Assistant Engineer
+1993-04-21,Doowon,Schoegge,Engineer
+1993-04-17,Susumu,Brender,Engineer
+1993-04-17,Susumu,Brender,Senior Engineer
+1993-03-24,Khalid,Lenart,Engineer
+1993-03-22,Cathie,Ratnakar,Senior Staff
+1993-03-10,Jiong,Zultner,Senior Engineer
+1993-03-07,Girolamo,Schlumberger,Senior Staff
+1993-03-07,Girolamo,Schlumberger,Staff
+1993-03-07,Visit,Swen,Senior Staff
+1993-03-07,Visit,Swen,Staff
+1993-02-26,Woody,Rusmann,Assistant Engineer
+1993-02-26,Woody,Rusmann,Engineer
+1993-02-19,Karsten,Kawashima,Engineer
+1993-02-19,Karsten,Kawashima,Senior Engineer
+1993-02-19,Yucel,Bernini,Engineer
+1993-02-19,Yucel,Bernini,Senior Engineer
+1993-02-17,Isaac,Koshino,Senior Engineer
+1993-02-12,Keiichiro,Miyakawa,Senior Staff
+1993-02-12,Keiichiro,Miyakawa,Staff
+1993-02-12,Kyoichi,Erman,Engineer
+1993-02-12,Kyoichi,Erman,Senior Engineer
+1993-02-03,Leandro,Gist,Technique Leader
+1993-02-03,Noritoshi,Bakhtari,Senior Staff
+1993-02-03,Noritoshi,Bakhtari,Staff
+1993-02-03,Steen,Salvesen,Technique Leader
+1993-01-29,Ute,Pokrovskii,Staff
+1993-01-23,Berthier,Pramanik,Senior Staff
+1993-01-23,Berthier,Pramanik,Staff
+1993-01-23,Teunis,Noriega,Technique Leader
+1993-01-22,Uma,Reinhard,Staff
+1993-01-19,Henk,Anger,Senior Staff
+1993-01-19,Henk,Anger,Staff
+1993-01-13,Mitsuyuki,Jeansoulin,Senior Engineer
+1993-01-10,Zdislav,Mandelberg,Engineer
+1993-01-10,Zdislav,Mandelberg,Senior Engineer
+1993-01-09,Eben,Calkin,Senior Staff
+1993-01-09,Eben,Calkin,Staff
+1993-01-06,Renny,Gladwell,Staff
+1992-12-24,Shigenori,Deville,Technique Leader
+1992-12-23,Ohad,Esposito,Technique Leader
+1992-12-11,Yechezkel,Maginnis,Senior Staff
+1992-12-11,Yechezkel,Maginnis,Staff
+1992-12-10,Seongbae,Schahn,Senior Staff
+1992-12-10,Seongbae,Schahn,Staff
+1992-12-04,Dannz,Miara,Engineer
+1992-12-04,Dannz,Miara,Senior Engineer
+1992-11-24,Kersti,Granlund,Engineer
+1992-11-22,Ymte,Dalton,Senior Staff
+1992-11-22,Ymte,Dalton,Staff
+1992-11-21,Danco,Debuse,Senior Staff
+1992-11-21,Danco,Debuse,Staff
+1992-11-16,Arif,Stranks,Senior Engineer
+1992-11-09,Mrinalini,Gire,Senior Staff
+1992-11-09,Mrinalini,Gire,Staff
+1992-11-09,Syozo,Maliniak,Senior Staff
+1992-11-08,Yefim,Marwedel,Senior Staff
+1992-11-08,Yefim,Marwedel,Staff
+1992-11-07,Gal,Ranta,Engineer
+1992-11-07,Gal,Ranta,Senior Engineer
+1992-10-27,Trygve,Krupka,Senior Staff
+1992-10-27,Trygve,Krupka,Staff
+1992-10-18,Navid,Staudhammer,Senior Staff
+1992-10-18,Navid,Staudhammer,Staff
+1992-10-16,Along,Erol,Senior Staff
+1992-10-16,Along,Erol,Staff
+1992-10-16,Gro,Prochazka,Engineer
+1992-10-16,Gro,Prochazka,Senior Engineer
+1992-10-13,Fabrizio,Usery,Senior Staff
+1992-10-13,Fabrizio,Usery,Staff
+1992-10-06,Kazuhisa,Riesenhuber,Senior Engineer
+1992-09-29,Pranay,Giarratana,Senior Engineer
+1992-09-25,Chinho,Delgrande,Senior Staff
+1992-09-25,Maria,Eppinger,Engineer
+1992-09-22,Yannik,Spelt,Technique Leader
+1992-09-21,Dinah,Denos,Senior Staff
+1992-09-21,Dinah,Denos,Staff
+1992-09-21,Niranjan,Debuse,Engineer
+1992-09-21,Niranjan,Debuse,Senior Engineer
+1992-09-19,Karlis,Nanard,Engineer
+1992-09-19,Karlis,Nanard,Senior Engineer
+1992-09-19,Pradeep,Valiente,Engineer
+1992-09-19,Pradeep,Valiente,Senior Engineer
+1992-09-11,Mong,Dichev,Technique Leader
+1992-09-08,Anneli,Perl,Senior Staff
+1992-09-08,Anneli,Perl,Staff
+1992-09-05,Josyula,Motley,Senior Engineer
+1992-09-03,Fumiya,Chappelet,Assistant Engineer
+1992-09-03,Fumiya,Chappelet,Engineer
+1992-09-01,Nimmagadda,Baja,Senior Staff
+1992-09-01,Nimmagadda,Baja,Staff
+1992-08-26,Gladys,Parhami,Senior Staff
+1992-08-24,Masamitsu,Murrill,Senior Staff
+1992-08-24,Masamitsu,Murrill,Staff
+1992-08-21,Arunas,Bugrara,Assistant Engineer
+1992-08-18,Giordano,Gini,Technique Leader
+1992-08-08,Parviz,Litzler,Engineer
+1992-08-08,Parviz,Litzler,Senior Engineer
+1992-08-04,Aksel,Gire,Engineer
+1992-08-02,Sugwoo,Michaels,Engineer
+1992-08-02,Sugwoo,Michaels,Senior Engineer
+1992-08-01,Djenana,Erol,Engineer
+1992-07-30,Christoph,Trystram,Senior Staff
+1992-07-30,Christoph,Trystram,Staff
+1992-07-19,Nahla,Serdy,Senior Staff
+1992-07-19,Nahla,Serdy,Staff
+1992-07-18,Jayesh,Spinelli,Senior Engineer
+1992-07-16,Shaw,Kading,Senior Staff
+1992-07-16,Shaw,Kading,Staff
+1992-07-15,Sven,Speer,Staff
+1992-07-14,Vidar,Demri,Staff
+1992-07-11,Hideo,Varman,Engineer
+1992-07-05,Nobuyoshi,Hegner,Senior Staff
+1992-07-05,Nobuyoshi,Hegner,Staff
+1992-07-02,Candida,Benveniste,Engineer
+1992-06-28,Gio,Heuser,Senior Staff
+1992-06-28,Gio,Heuser,Staff
+1992-06-25,Panayotis,Hempstead,Senior Engineer
+1992-06-17,Bezalel,Tsunoo,Senior Staff
+1992-06-17,Bezalel,Tsunoo,Staff
+1992-06-14,Selwyn,Henseler,Senior Engineer
+1992-06-08,Berni,Takkinen,Senior Staff
+1992-06-08,Berni,Takkinen,Staff
+1992-06-08,Ronnie,Denos,Engineer
+1992-06-08,Ronnie,Denos,Senior Engineer
+1992-06-05,Temple,Cyre,Senior Staff
+1992-06-05,Temple,Cyre,Staff
+1992-06-04,Sachem,Msuda,Engineer
+1992-05-28,Bouchung,Zaumen,Senior Staff
+1992-05-27,Jessie,Thorelli,Senior Staff
+1992-05-27,Mohit,Verhaegen,Senior Staff
+1992-05-27,Mohit,Verhaegen,Staff
+1992-05-24,Subir,Greibach,Senior Engineer
+1992-05-21,Shai,Stellhorn,Senior Engineer
+1992-05-20,Filipp,Akaboshi,Senior Staff
+1992-05-19,Khaled,Penn,Senior Staff
+1992-05-19,Khaled,Penn,Staff
+1992-05-13,Adil,Laventhal,Assistant Engineer
+1992-05-13,Adil,Laventhal,Engineer
+1992-05-11,Pantung,Reeker,Senior Staff
+1992-05-11,Pantung,Reeker,Staff
+1992-05-09,Conal,Magliocco,Senior Staff
+1992-05-05,Werner,Lodder,Senior Staff
+1992-05-05,Werner,Lodder,Staff
+1992-04-28,Martine,Cangellaris,Engineer
+1992-04-28,Martine,Cangellaris,Senior Engineer
+1992-04-28,Remmert,Quaggetto,Senior Staff
+1992-04-28,Remmert,Quaggetto,Staff
+1992-04-26,Harjit,Ernst,Technique Leader
+1992-04-24,Hugo,Sgarro,Senior Staff
+1992-04-17,Danai,Trelles,Technique Leader
+1992-04-10,Gunilla,Brendel,Engineer
+1992-04-10,Gunilla,Brendel,Senior Engineer
+1992-04-08,Heping,Halloran,Assistant Engineer
+1992-04-08,Heping,Halloran,Engineer
+1992-04-07,Gaurav,Swick,Assistant Engineer
+1992-04-07,Gaurav,Swick,Engineer
+1992-04-04,Kazuhiko,Gornas,Senior Engineer
+1992-04-02,Arif,Preusig,Senior Engineer
+1992-04-02,Shaz,Driscoll,Staff
+1992-04-01,Jaques,DiGiano,Technique Leader
+1992-04-01,Olivera,Bharadwaj,Senior Staff
+1992-04-01,Olivera,Bharadwaj,Staff
+1992-03-31,Gully,Perko,Engineer
+1992-03-25,Kamakshi,Huhdanpaa,Engineer
+1992-03-25,Kamakshi,Huhdanpaa,Senior Engineer
+1992-03-19,Erez,Luft,Staff
+1992-03-19,Parviz,Picco,Engineer
+1992-03-17,Francesca,Ellozy,Senior Engineer
+1992-03-17,Ravishankar,Baig,Senior Staff
+1992-03-17,Ravishankar,Baig,Staff
+1992-03-13,Jaques,Kabayashi,Senior Engineer
+1992-03-11,Nadjib,Comellas,Engineer
+1992-03-11,Nadjib,Comellas,Senior Engineer
+1992-03-09,Navid,Luke,Engineer
+1992-02-29,Shigeichiro,Engelmann,Engineer
+1992-02-29,Shigeichiro,Engelmann,Senior Engineer
+1992-02-27,Przemyslawa,Esposito,Engineer
+1992-02-27,Przemyslawa,Esposito,Senior Engineer
+1992-02-22,Phule,Heijenga,Senior Staff
+1992-02-22,Phule,Heijenga,Staff
+1992-02-22,Soenke,Zaumen,Senior Staff
+1992-02-22,Soenke,Zaumen,Staff
+1992-02-17,Sajjad,Vitiello,Senior Staff
+1992-02-17,Sajjad,Vitiello,Staff
+1992-02-16,Sumali,Cooman,Senior Staff
+1992-02-16,Sumali,Cooman,Staff
+1992-02-15,Gaurav,Fendler,Senior Staff
+1992-02-15,Gaurav,Fendler,Staff
+1992-02-14,Xiaobin,Narlikar,Senior Staff
+1992-02-14,Xiaobin,Narlikar,Staff
+1992-02-10,Halsur,Brodal,Engineer
+1992-02-06,Rimon,Kawashima,Senior Staff
+1992-02-06,Rimon,Kawashima,Staff
+1992-02-04,Kwangsub,Keirsey,Senior Engineer
+1992-01-29,Kayoko,Bahi,Staff
+1992-01-28,Gilbert,Kilgour,Staff
+1992-01-28,Kazuhiko,Kushner,Senior Engineer
+1992-01-22,Geoffrey,Ladret,Engineer
+1992-01-21,Lech,Himler,Senior Staff
+1992-01-21,Lech,Himler,Staff
+1992-01-11,Claudi,Stanfel,Engineer
+1992-01-11,Claudi,Stanfel,Senior Engineer
+1992-01-11,Takanari,Ermel,Senior Staff
+1992-01-11,Takanari,Ermel,Staff
+1992-01-10,Munenori,Shobatake,Senior Staff
+1992-01-10,Munenori,Shobatake,Staff
+1992-01-09,Keung,Neiman,Staff
+1991-12-31,Valery,Babb,Senior Engineer
+1991-12-28,Mohammed,Brizzi,Senior Staff
+1991-12-28,Mohammed,Brizzi,Staff
+1991-12-23,Ortrun,Schmiedel,Engineer
+1991-12-21,Irena,Terkki,Staff
+1991-12-18,Satoru,Janetzko,Assistant Engineer
+1991-12-15,Susumu,Camurati,Senior Staff
+1991-12-15,Susumu,Camurati,Staff
+1991-12-14,Bowen,Deverell,Senior Staff
+1991-12-13,Jolita,Neimat,Engineer
+1991-12-13,Jolita,Neimat,Senior Engineer
+1991-12-12,Moto,Kobara,Engineer
+1991-12-12,Moto,Kobara,Senior Engineer
+1991-12-11,Yuriy,Ponthieu,Senior Staff
+1991-12-11,Yuriy,Ponthieu,Staff
+1991-12-10,Sumant,Nergos,Senior Staff
+1991-12-10,Sumant,Nergos,Staff
+1991-12-01,Reinhard,Slaats,Engineer
+1991-12-01,Reinhard,Slaats,Senior Engineer
+1991-11-30,Woody,Trelles,Senior Engineer
+1991-11-29,Ishfaq,Mahmud,Senior Staff
+1991-11-29,Ishfaq,Mahmud,Staff
+1991-11-28,Georgi,Bednarek,Engineer
+1991-11-28,Georgi,Bednarek,Senior Engineer
+1991-11-28,Xiaocheng,Kumaresan,Staff
+1991-11-27,Masako,Bahk,Engineer
+1991-11-26,Lena,Giaccio,Senior Staff
+1991-11-26,Sandeepan,Rosti,Senior Engineer
+1991-11-25,Mohamadou,Grabner,Senior Staff
+1991-11-25,Mohamadou,Grabner,Staff
+1991-11-22,Morris,Saoudi,Engineer
+1991-11-22,Morris,Saoudi,Senior Engineer
+1991-11-22,Nahla,Smailagic,Engineer
+1991-11-22,Nahla,Smailagic,Senior Engineer
+1991-11-13,Hatem,Fadgyas,Senior Engineer
+1991-11-12,Bartek,Vendrig,Senior Staff
+1991-11-12,Bartek,Vendrig,Staff
+1991-11-09,Ingmar,Basawa,Senior Staff
+1991-11-09,Ingmar,Basawa,Staff
+1991-11-04,Jagoda,Uhrig,Engineer
+1991-11-02,Zijian,Covnot,Assistant Engineer
+1991-10-28,Arun,Katzenelson,Engineer
+1991-10-28,Arun,Katzenelson,Senior Engineer
+1991-10-26,Duke,Journel,Senior Staff
+1991-10-26,Duke,Journel,Staff
+1991-10-14,Mingdong,Baar,Technique Leader
+1991-10-11,Heejo,Merle,Technique Leader
+1991-10-11,Moie,Zastre,Technique Leader
+1991-10-10,Arch,Picco,Senior Staff
+1991-10-10,Arch,Picco,Staff
+1991-10-06,Sugwoo,Eugenio,Senior Staff
+1991-10-02,Tadahiro,Backhouse,Engineer
+1991-10-02,Tadahiro,Backhouse,Senior Engineer
+1991-09-28,Xumin,Thorensen,Staff
+1991-09-27,Theirry,Albarhamtoshy,Senior Staff
+1991-09-27,Theirry,Albarhamtoshy,Staff
+1991-09-23,Tzvetan,Scharstein,Senior Staff
+1991-09-23,Tzvetan,Scharstein,Staff
+1991-09-21,Fumino,Narahara,Engineer
+1991-09-21,Fumino,Narahara,Senior Engineer
+1991-09-15,Nahum,Codenie,Engineer
+1991-09-12,Brigham,Eterovic,Engineer
+1991-09-12,Brigham,Eterovic,Senior Engineer
+1991-09-11,Ronghao,Alpin,Senior Staff
+1991-09-11,Ronghao,Alpin,Staff
+1991-09-10,Arco,Walston,Engineer
+1991-09-09,Jessie,Nooteboom,Staff
+1991-09-07,Irena,Dratva,Senior Staff
+1991-09-07,Irena,Dratva,Staff
+1991-09-07,Leni,Henders,Senior Staff
+1991-09-07,Leni,Henders,Staff
+1991-09-07,Seshu,Hiraishi,Senior Staff
+1991-09-07,Seshu,Hiraishi,Staff
+1991-09-03,Moty,Mersereau,Senior Staff
+1991-09-03,Moty,Mersereau,Staff
+1991-08-21,Rasiah,Koblick,Senior Staff
+1991-08-21,Rasiah,Koblick,Staff
+1991-08-10,Surveyors,Muhling,Engineer
+1991-08-09,Yinghua,Lorho,Senior Staff
+1991-08-09,Yinghua,Lorho,Staff
+1991-08-02,Radhika,Bonifati,Senior Staff
+1991-07-26,Gift,Bottner,Senior Staff
+1991-07-26,Gift,Bottner,Staff
+1991-07-26,Janalee,Lanzelotte,Senior Staff
+1991-07-23,Mokhtar,Rebaine,Senior Staff
+1991-07-23,Mokhtar,Rebaine,Staff
+1991-07-21,Uwe,Koblick,Engineer
+1991-07-16,Snehasis,Muhlberg,Senior Staff
+1991-07-16,Snehasis,Muhlberg,Staff
+1991-07-08,Bluma,Mundy,Engineer
+1991-07-08,Bluma,Mundy,Senior Engineer
+1991-07-06,Hugh,Jonsson,Senior Staff
+1991-07-06,Hugh,Jonsson,Staff
+1991-07-04,Marc,Bahl,Assistant Engineer
+1991-07-03,Kiyotoshi,Hennebert,Staff
+1991-07-03,Pranjal,Zyda,Senior Staff
+1991-07-03,Pranjal,Zyda,Staff
+1991-06-29,Moie,Tempesti,Senior Staff
+1991-06-29,Moie,Tempesti,Staff
+1991-06-22,Harjit,Terekhov,Staff
+1991-06-16,Carrsten,Francisci,Senior Engineer
+1991-06-16,Limsoon,Leppanen,Engineer
+1991-06-16,Limsoon,Leppanen,Senior Engineer
+1991-06-11,Paloma,Henseler,Engineer
+1991-06-11,Paloma,Henseler,Senior Engineer
+1991-06-10,Georgi,Luiz,Engineer
+1991-06-10,Georgi,Luiz,Senior Engineer
+1991-06-10,Hercules,Kabayashi,Senior Engineer
+1991-06-07,Zengping,Cusworth,Engineer
+1991-06-07,Zengping,Cusworth,Senior Engineer
+1991-06-02,Adit,Syrotiuk,Engineer
+1991-06-02,Adit,Syrotiuk,Senior Engineer
+1991-06-01,Make,Olivero,Assistant Engineer
+1991-06-01,Make,Olivero,Engineer
+1991-05-28,Kamakshi,Hebert,Engineer
+1991-05-28,Kamakshi,Hebert,Senior Engineer
+1991-05-25,Lubomir,Wroclawski,Engineer
+1991-05-25,Lubomir,Wroclawski,Senior Engineer
+1991-05-25,Miomir,Frezza,Technique Leader
+1991-05-24,Harjit,Bardell,Engineer
+1991-05-24,Harjit,Bardell,Senior Engineer
+1991-05-23,Heekeun,Verhaegen,Senior Engineer
+1991-05-19,Luisa,Chelton,Assistant Engineer
+1991-05-17,Conal,Basart,Senior Staff
+1991-05-16,Lena,Peek,Engineer
+1991-05-16,Lena,Peek,Senior Engineer
+1991-05-13,Tokuyasu,Xiaoshan,Engineer
+1991-05-13,Tokuyasu,Xiaoshan,Senior Engineer
+1991-05-11,Oscar,Kusalik,Senior Staff
+1991-05-11,Oscar,Kusalik,Staff
+1991-05-11,Shaw,Borovoy,Senior Staff
+1991-05-10,Dietrich,Kranzdorf,Senior Staff
+1991-05-10,Dietrich,Kranzdorf,Staff
+1991-05-10,Heekeun,Slaats,Senior Staff
+1991-05-09,Sanjiv,Bressoud,Engineer
+1991-05-09,Sanjiv,Bressoud,Senior Engineer
+1991-05-06,Morrie,Iisaku,Senior Staff
+1991-05-06,Morrie,Iisaku,Staff
+1991-05-03,Claudi,Ruemmler,Staff
+1991-05-03,Sudharsan,DeMori,Engineer
+1991-05-03,Sudharsan,DeMori,Senior Engineer
+1991-05-02,Armond,Lores,Technique Leader
+1991-04-30,Haldun,Erie,Senior Engineer
+1991-04-28,Moty,Winter,Technique Leader
+1991-04-27,Erzsebet,Claffy,Staff
+1991-04-25,Aran,Rosenbaum,Senior Staff
+1991-04-25,Aran,Rosenbaum,Staff
+1991-04-23,Xiong,Anick,Senior Staff
+1991-04-20,Manu,Junet,Senior Staff
+1991-04-20,Manu,Junet,Staff
+1991-04-19,Patricia,Pepe,Senior Staff
+1991-04-19,Patricia,Pepe,Staff
+1991-04-09,Miyeon,Rothe,Senior Staff
+1991-04-09,Miyeon,Rothe,Staff
+1991-04-05,Anneke,Bernardeschi,Engineer
+1991-03-28,Sumant,Nishimukai,Senior Staff
+1991-03-25,Kotesh,Chachaty,Engineer
+1991-03-25,Kotesh,Chachaty,Senior Engineer
+1991-03-23,Oksana,Zultner,Senior Staff
+1991-03-23,Oksana,Zultner,Staff
+1991-03-17,Lalit,Lindqvist,Engineer
+1991-03-13,Baruch,Basawa,Engineer
+1991-03-13,Baruch,Basawa,Senior Engineer
+1991-03-08,Geoffrey,Siochi,Senior Engineer
+1991-03-08,Shuichi,Ruemmler,Senior Staff
+1991-03-08,Shuichi,Ruemmler,Staff
+1991-03-05,Hilari,Vecchio,Senior Staff
+1991-03-05,Hilari,Vecchio,Staff
+1991-03-04,Jeane,Tasistro,Technique Leader
+1991-03-04,Quingbo,Coombs,Senior Engineer
+1991-03-03,Francesca,Azuma,Senior Staff
+1991-03-03,Francesca,Azuma,Staff
+1991-02-27,Palash,Spieker,Senior Staff
+1991-02-27,Palash,Spieker,Staff
+1991-02-25,Mikhail,Rousseau,Staff
+1991-02-25,Utpal,Zaumen,Senior Staff
+1991-02-25,Utpal,Zaumen,Staff
+1991-02-21,Fumitake,Sichman,Senior Staff
+1991-02-15,Tesuya,Bugrara,Assistant Engineer
+1991-02-15,Tesuya,Bugrara,Engineer
+1991-02-12,Bokyung,Stamatiou,Technique Leader
+1991-02-11,Hitomi,Takanami,Assistant Engineer
+1991-02-10,Uinam,Rahier,Senior Staff
+1991-02-10,Uinam,Rahier,Staff
+1991-02-09,Yaghout,Kenevan,Engineer
+1991-02-09,Yaghout,Kenevan,Senior Engineer
+1991-02-02,Nahum,Nishimukai,Engineer
+1991-02-02,Nahum,Nishimukai,Senior Engineer
+1991-01-31,Abdelaziz,Sury,Senior Staff
+1991-01-31,Abdelaziz,Sury,Staff
+1991-01-29,Saeed,Bahl,Senior Staff
+1991-01-27,Aksel,Picaronny,Engineer
+1991-01-27,Aksel,Picaronny,Senior Engineer
+1991-01-24,Hongzhu,Beetstra,Senior Staff
+1991-01-24,Hongzhu,Beetstra,Staff
+1991-01-22,Wanqing,Krohm,Senior Staff
+1991-01-22,Wanqing,Krohm,Staff
+1991-01-19,Hilari,Christ,Senior Staff
+1991-01-19,Michaela,Ramsak,Senior Staff
+1991-01-19,Michaela,Ramsak,Staff
+1991-01-18,Satoru,Yoshizawa,Senior Staff
+1991-01-18,Satoru,Yoshizawa,Staff
+1991-01-17,Kellie,Schrooten,Assistant Engineer
+1991-01-17,Kellie,Schrooten,Engineer
+1991-01-14,Gudjon,Kalorkoti,Engineer
+1991-01-14,Gudjon,Kalorkoti,Senior Engineer
+1991-01-12,Conal,Yetto,Senior Staff
+1991-01-12,Conal,Yetto,Staff
+1991-01-12,Uzi,Kugler,Senior Staff
+1991-01-06,Leandro,Swist,Senior Staff
+1991-01-06,Leandro,Swist,Staff
+1991-01-02,Jamaludin,Kalorkoti,Senior Staff
+1991-01-02,Jamaludin,Kalorkoti,Staff
+1991-01-01,Zhaofang,Falster,Senior Staff
+1991-01-01,Zhaofang,Falster,Staff
+1990-12-31,Yoshinari,Lanteri,Engineer
+1990-12-31,Yoshinari,Lanteri,Senior Engineer
+1990-12-30,Aiman,Wilfing,Engineer
+1990-12-30,Aiman,Wilfing,Senior Engineer
+1990-12-30,Kyoichi,Callaway,Senior Staff
+1990-12-30,Kyoichi,Callaway,Staff
+1990-12-29,Brigham,Borstler,Staff
+1990-12-25,Lena,Lenart,Senior Staff
+1990-12-25,Lena,Lenart,Staff
+1990-12-23,Bilhanan,Brendel,Senior Staff
+1990-12-23,Masasuke,Genin,Assistant Engineer
+1990-12-23,Masasuke,Genin,Engineer
+1990-12-20,Chinya,Leslie,Engineer
+1990-12-18,Stafford,Honglei,Staff
+1990-12-17,Gina,Ossenbruggen,Technique Leader
+1990-12-17,Nikolaos,Kruskal,Engineer
+1990-12-17,Nikolaos,Kruskal,Senior Engineer
+1990-12-14,Martijn,Jeong,Senior Staff
+1990-12-14,Martijn,Jeong,Staff
+1990-12-08,Caolyn,Poujol,Technique Leader
+1990-12-04,Mingsen,Lally,Senior Engineer
+1990-11-29,Atilio,Segond,Engineer
+1990-11-29,Atilio,Segond,Senior Engineer
+1990-11-27,Heping,Skrikant,Senior Staff
+1990-11-27,Heping,Skrikant,Staff
+1990-11-27,Huai,Birch,Assistant Engineer
+1990-11-27,Huai,Birch,Engineer
+1990-11-26,Filipp,Flanders,Engineer
+1990-11-26,Filipp,Flanders,Senior Engineer
+1990-11-26,Ingmar,Kohling,Engineer
+1990-11-16,Alselm,Rikino,Engineer
+1990-11-16,Alselm,Rikino,Senior Engineer
+1990-11-10,Zengping,Boreale,Staff
+1990-11-08,Munenori,Debuse,Senior Engineer
+1990-11-07,Prasadram,Bultermann,Senior Engineer
+1990-11-03,Ohad,Henders,Senior Staff
+1990-11-03,Ohad,Henders,Staff
+1990-11-02,Susanne,Mandelberg,Engineer
+1990-11-02,Susanne,Mandelberg,Senior Engineer
+1990-10-29,Chinya,Kamble,Senior Staff
+1990-10-27,Marie,Khalid,Senior Engineer
+1990-10-24,Dannz,Zhang,Senior Staff
+1990-10-23,Masoud,Asmuth,Staff
+1990-10-20,Foong,Gargeya,Engineer
+1990-10-20,Foong,Gargeya,Senior Engineer
+1990-10-20,Stabislas,Broder,Engineer
+1990-10-20,Stabislas,Broder,Senior Engineer
+1990-10-16,Guther,Conia,Engineer
+1990-10-16,Vesna,Lammel,Assistant Engineer
+1990-10-15,Weiru,Burnard,Senior Staff
+1990-10-15,Weiru,Burnard,Staff
+1990-10-11,Saddek,Farris,Senior Staff
+1990-10-09,Jungsoon,Gubsky,Senior Engineer
+1990-10-07,Marl,Fiebach,Senior Staff
+1990-10-07,Marl,Fiebach,Staff
+1990-10-06,Cedric,Molenaar,Engineer
+1990-10-06,Cedric,Molenaar,Senior Engineer
+1990-10-04,Aiichiro,Kusalik,Engineer
+1990-10-04,Aiichiro,Kusalik,Senior Engineer
+1990-10-01,Boalin,Byoun,Senior Staff
+1990-10-01,Boalin,Byoun,Staff
+1990-09-30,Marit,Paludetto,Engineer
+1990-09-30,Marit,Paludetto,Senior Engineer
+1990-09-29,Shalesh,Lovengreen,Senior Staff
+1990-09-29,Shalesh,Lovengreen,Staff
+1990-09-28,Mari,Swick,Senior Staff
+1990-09-26,Fay,Cochrane,Staff
+1990-09-21,Jinxi,Schmiedel,Senior Staff
+1990-09-21,Jinxi,Schmiedel,Staff
+1990-09-18,Shigehiro,Haldar,Senior Staff
+1990-09-18,Shigehiro,Haldar,Staff
+1990-09-11,Haldon,Janetzko,Senior Staff
+1990-09-11,Haldon,Janetzko,Staff
+1990-09-10,Nitsan,Nollmann,Engineer
+1990-09-10,Nitsan,Nollmann,Senior Engineer
+1990-09-07,Randi,Munos,Senior Staff
+1990-09-03,Tru,Miyakawa,Senior Staff
+1990-09-03,Tru,Miyakawa,Staff
+1990-08-31,Piyush,Gill,Engineer
+1990-08-31,Piyush,Gill,Senior Engineer
+1990-08-28,Mokhtar,Sabnani,Senior Staff
+1990-08-28,Mokhtar,Sabnani,Staff
+1990-08-26,Shahar,Negoita,Senior Staff
+1990-08-26,Shahar,Negoita,Staff
+1990-08-21,Shuichi,Marrakchi,Senior Staff
+1990-08-20,Sachem,Cromarty,Assistant Engineer
+1990-08-20,Sachem,Cromarty,Engineer
+1990-08-19,Mayuri,Werthner,Senior Staff
+1990-08-19,Mayuri,Werthner,Staff
+1990-08-18,Aiichiro,Cromarty,Engineer
+1990-08-18,Aiichiro,Cromarty,Senior Engineer
+1990-08-15,Volkmar,Czaja,Senior Staff
+1990-08-15,Volkmar,Czaja,Staff
+1990-08-11,Jeanna,Ghandeharizadeh,Senior Engineer
+1990-08-09,Phule,Ruemmler,Engineer
+1990-08-09,Phule,Ruemmler,Senior Engineer
+1990-08-07,Chinho,Collette,Senior Engineer
+1990-08-01,Shiv,Vilarrasa,Engineer
+1990-08-01,Shiv,Vilarrasa,Senior Engineer
+1990-07-28,Mariusz,Zolotykh,Senior Staff
+1990-07-26,Jeanna,Bratten,Engineer
+1990-07-26,Jeanna,Bratten,Senior Engineer
+1990-07-21,Gunilla,Kisuki,Senior Staff
+1990-07-21,Gunilla,Kisuki,Staff
+1990-07-13,Christfried,Atrawala,Senior Staff
+1990-07-11,Filipp,Hasham,Senior Staff
+1990-07-11,Filipp,Hasham,Staff
+1990-07-07,Fay,Sundgren,Senior Staff
+1990-07-07,Fay,Sundgren,Staff
+1990-07-07,Paddy,Zumaque,Senior Staff
+1990-07-04,Herbert,Itzigehl,Senior Engineer
+1990-07-01,Ohad,Kilgore,Engineer
+1990-07-01,Ohad,Kilgore,Senior Engineer
+1990-06-19,Ronnie,Pollock,Technique Leader
+1990-06-15,Martijn,DiGiano,Senior Engineer
+1990-06-14,Steen,Fasbender,Technique Leader
+1990-06-10,Denny,Shobatake,Senior Staff
+1990-06-10,Denny,Shobatake,Staff
+1990-06-08,Jaana,Perez,Technique Leader
+1990-06-06,Sangeeta,Kalefeld,Senior Staff
+1990-06-06,Sangeeta,Kalefeld,Staff
+1990-06-04,Yoshimitsu,Litvinov,Senior Staff
+1990-06-02,Mohamadou,Stafford,Engineer
+1990-06-02,Mohamadou,Stafford,Senior Engineer
+1990-05-31,Arun,Zaccaria,Assistant Engineer
+1990-05-31,Arun,Zaccaria,Engineer
+1990-05-28,Annemarie,Zallocco,Engineer
+1990-05-28,Annemarie,Zallocco,Senior Engineer
+1990-05-26,Koichi,Assaf,Engineer
+1990-05-26,Koichi,Assaf,Senior Engineer
+1990-05-24,Kristinn,Loncour,Engineer
+1990-05-17,Dzung,Pargas,Technique Leader
+1990-05-14,Goncalo,Barbanera,Senior Staff
+1990-05-12,Martijn,Vendrig,Senior Staff
+1990-05-12,Martijn,Vendrig,Staff
+1990-05-11,Gill,Niizuma,Engineer
+1990-05-11,Gill,Niizuma,Senior Engineer
+1990-05-10,Nechama,Ermel,Engineer
+1990-04-30,Heejo,Aamodt,Engineer
+1990-04-30,Heejo,Aamodt,Senior Engineer
+1990-04-29,Zhenhua,Lorys,Engineer
+1990-04-25,Kolar,Puppo,Engineer
+1990-04-25,Kolar,Puppo,Senior Engineer
+1990-04-25,Mountaz,Reinhart,Engineer
+1990-04-17,Mona,Hebden,Engineer
+1990-04-03,Luisa,Itzfeldt,Engineer
+1990-03-31,Ramzi,Cronau,Technique Leader
+1990-03-27,Sukumar,Georg,Senior Staff
+1990-03-27,Sukumar,Georg,Staff
+1990-03-14,Stella,Figueira,Senior Staff
+1990-03-14,Stella,Figueira,Staff
+1990-03-13,Mang,Atchley,Senior Staff
+1990-03-09,Shawna,Krider,Senior Staff
+1990-03-09,Shawna,Krider,Staff
+1990-03-08,Takahiro,Maquelin,Engineer
+1990-03-07,Bojan,Montresor,Staff
+1990-03-07,Giao,DuCasse,Engineer
+1990-03-07,Giao,DuCasse,Senior Engineer
+1990-03-05,Willard,Verspoor,Engineer
+1990-03-04,Duri,Mitina,Engineer
+1990-03-04,Duri,Mitina,Senior Engineer
+1990-03-03,Khosrow,Sommen,Senior Engineer
+1990-03-02,Nectarios,Itschner,Engineer
+1990-03-02,Nectarios,Itschner,Senior Engineer
+1990-03-02,Shuji,Kandlur,Engineer
+1990-03-02,Shuji,Kandlur,Senior Engineer
+1990-03-01,Mihalis,Remmers,Senior Staff
+1990-03-01,Mihalis,Remmers,Staff
+1990-02-27,Eldridge,Kawashima,Engineer
+1990-02-27,Eldridge,Kawashima,Senior Engineer
+1990-02-22,Hongzue,Zultner,Senior Staff
+1990-02-11,Bedir,Siegrist,Engineer
+1990-02-06,Caolyn,Setiz,Senior Staff
+1990-02-06,Caolyn,Setiz,Staff
+1990-02-01,Tetsushi,Theuretzbacher,Senior Staff
+1990-02-01,Tetsushi,Theuretzbacher,Staff
+1990-01-28,Dung,Tanemo,Senior Staff
+1990-01-28,Dung,Tanemo,Staff
+1990-01-18,Poornachandra,Wilharm,Engineer
+1990-01-18,Poornachandra,Wilharm,Senior Engineer
+1990-01-17,Naftali,Schurmann,Engineer
+1990-01-17,Naftali,Schurmann,Senior Engineer
+1990-01-14,Guiseppe,Ellozy,Senior Engineer
+1990-01-14,Rildo,Masaki,Engineer
+1990-01-14,Rildo,Masaki,Senior Engineer
+1990-01-02,Holgard,Weiland,Senior Engineer
+1990-01-02,Jiong,Garnham,Senior Staff
+1990-01-02,Jiong,Garnham,Staff
+1990-01-02,Val,Barvinok,Assistant Engineer
+1990-01-02,Val,Barvinok,Engineer
+1990-01-02,Val,Barvinok,Senior Engineer
+1989-12-27,Sanjoy,Boudaillier,Engineer
+1989-12-27,Sanjoy,Boudaillier,Senior Engineer
+1989-12-26,Kankanahalli,Ciolek,Senior Staff
+1989-12-26,Kankanahalli,Ciolek,Staff
+1989-12-24,Suebskul,Menhardt,Engineer
+1989-12-24,Suebskul,Menhardt,Senior Engineer
+1989-12-13,Etsuo,Anandan,Senior Staff
+1989-12-13,Etsuo,Anandan,Staff
+1989-12-13,Sanjay,Ciolek,Senior Staff
+1989-12-13,Sanjay,Ciolek,Staff
+1989-12-10,Subhada,Emmerich,Engineer
+1989-12-10,Susuma,Tagansky,Engineer
+1989-12-10,Susuma,Tagansky,Senior Engineer
+1989-12-06,Gennady,Roison,Assistant Engineer
+1989-12-06,Gennady,Roison,Engineer
+1989-12-06,Munehiko,Gihr,Senior Staff
+1989-12-04,Kousuke,Vecchio,Engineer
+1989-12-04,Kousuke,Vecchio,Senior Engineer
+1989-12-01,Remko,Vieth,Senior Staff
+1989-12-01,Remko,Vieth,Staff
+1989-12-01,Xiahua,Gomatam,Senior Engineer
+1989-11-30,Mabhin,Calkin,Engineer
+1989-11-30,Mabhin,Calkin,Senior Engineer
+1989-11-28,Shigeaki,Butner,Senior Staff
+1989-11-22,Renny,Bale,Engineer
+1989-11-22,Renny,Bale,Senior Engineer
+1989-11-21,Ebru,Valtorta,Engineer
+1989-11-21,Ebru,Valtorta,Senior Engineer
+1989-11-14,Gianluca,Ramaiah,Engineer
+1989-11-11,Ronghao,Segond,Senior Engineer
+1989-11-05,Ranga,Lemarechal,Engineer
+1989-11-05,Ranga,Lemarechal,Senior Engineer
+1989-11-04,Shih,Lindqvist,Senior Engineer
+1989-11-03,Juyoung,Willoner,Senior Staff
+1989-11-03,Juyoung,Willoner,Staff
+1989-10-27,Flemming,Driscoll,Engineer
+1989-10-27,Flemming,Driscoll,Senior Engineer
+1989-10-27,Stevo,Thambidurai,Senior Staff
+1989-10-25,Paris,Range,Senior Staff
+1989-10-25,Paris,Range,Staff
+1989-10-24,Shirish,Vickson,Engineer
+1989-10-24,Shirish,Vickson,Senior Engineer
+1989-10-23,Kazuhisa,Benantar,Senior Staff
+1989-10-23,Kazuhisa,Benantar,Staff
+1989-10-20,Youngkon,Rohrbach,Engineer
+1989-10-20,Youngkon,Rohrbach,Senior Engineer
+1989-10-19,Sastry,Marrevee,Engineer
+1989-10-17,Shichao,Iwayama,Assistant Engineer
+1989-10-17,Shichao,Iwayama,Engineer
+1989-10-16,Moie,Lieblein,Staff
+1989-10-12,Breannda,Collavizza,Engineer
+1989-10-12,Breannda,Collavizza,Senior Engineer
+1989-10-12,Nectarios,Pramanik,Assistant Engineer
+1989-10-10,Larisa,Lukaszewicz,Senior Staff
+1989-10-10,Larisa,Lukaszewicz,Staff
+1989-10-06,Chiradeep,Arlazarov,Engineer
+1989-10-06,Chiradeep,Arlazarov,Senior Engineer
+1989-10-04,Vitali,Rothenberg,Senior Staff
+1989-10-04,Vitali,Rothenberg,Staff
+1989-10-01,Niranjan,Schaaf,Technique Leader
+1989-09-22,Divier,Ishibashi,Engineer
+1989-09-22,Divier,Ishibashi,Senior Engineer
+1989-09-14,Armond,Perly,Engineer
+1989-09-14,Armond,Perly,Senior Engineer
+1989-09-13,Khun,Janetzko,Assistant Engineer
+1989-09-13,Khun,Janetzko,Engineer
+1989-09-12,Hisao,Peral,Engineer
+1989-09-12,Hisao,Peral,Senior Engineer
+1989-09-12,Sumali,Huttel,Senior Staff
+1989-09-12,Sumali,Huttel,Staff
+1989-09-09,Matt,Chvatal,Senior Engineer
+1989-09-08,Berni,Assaf,Senior Staff
+1989-09-06,Jahangir,Bernatsky,Senior Staff
+1989-09-06,Mark,Schwaller,Senior Staff
+1989-09-06,Mark,Schwaller,Staff
+1989-09-02,Kazunori,Peak,Senior Staff
+1989-09-01,Denny,Tchuente,Assistant Engineer
+1989-09-01,Denny,Tchuente,Engineer
+1989-08-31,Nahum,Lambe,Technique Leader
+1989-08-24,Yongmao,Pouyioutas,Senior Staff
+1989-08-24,Yongmao,Pouyioutas,Staff
+1989-08-18,Tsuneo,Skrikant,Staff
+1989-08-11,Mrinalini,Mawatari,Staff
+1989-08-07,Tsvetan,Sherertz,Assistant Engineer
+1989-08-07,Tsvetan,Sherertz,Engineer
+1989-08-04,Aran,Cesareni,Senior Staff
+1989-08-02,Mabhin,Eastman,Senior Staff
+1989-08-02,Mabhin,Eastman,Staff
+1989-07-29,Mahmut,Bolotov,Engineer
+1989-07-28,Arnould,Weedman,Senior Staff
+1989-07-28,Yuichiro,Malabarba,Senior Staff
+1989-07-28,Yuichiro,Malabarba,Staff
+1989-07-27,Jaana,Werthner,Senior Staff
+1989-07-27,Jaana,Werthner,Staff
+1989-07-23,Peer,Angelopoulos,Engineer
+1989-07-23,Peer,Angelopoulos,Senior Engineer
+1989-07-20,Oksana,Baek,Senior Staff
+1989-07-20,Oksana,Baek,Staff
+1989-07-11,Danco,Rajala,Senior Staff
+1989-07-11,Danco,Rajala,Staff
+1989-07-10,Naraig,Veldwijk,Engineer
+1989-07-10,Naraig,Veldwijk,Senior Engineer
+1989-07-09,Zijian,Rindone,Senior Staff
+1989-07-09,Zijian,Rindone,Staff
+1989-07-05,Divine,Sidhu,Senior Staff
+1989-07-05,Juyoung,Vieri,Senior Staff
+1989-07-05,Juyoung,Vieri,Staff
+1989-06-26,Bingning,Iisaku,Senior Staff
+1989-06-26,Bingning,Iisaku,Staff
+1989-06-25,Qingxiang,Badache,Engineer
+1989-06-25,Qingxiang,Badache,Senior Engineer
+1989-06-24,Deniz,Bennis,Engineer
+1989-06-24,Deniz,Bennis,Senior Engineer
+1989-06-21,Mani,Cannata,Senior Staff
+1989-06-21,Mani,Cannata,Staff
+1989-06-21,Masaru,Huhdanpaa,Engineer
+1989-06-21,Masaru,Huhdanpaa,Senior Engineer
+1989-06-21,Stabislas,Pardalos,Engineer
+1989-06-21,Stabislas,Pardalos,Senior Engineer
+1989-06-16,Ashish,Vidya,Engineer
+1989-06-16,Ashish,Vidya,Senior Engineer
+1989-06-14,Etsuo,Serot,Senior Staff
+1989-06-14,Etsuo,Serot,Staff
+1989-06-13,Rosli,Butner,Assistant Engineer
+1989-06-13,Rosli,Butner,Engineer
+1989-06-12,Taiji,Berstel,Engineer
+1989-06-12,Taiji,Berstel,Senior Engineer
+1989-06-10,Mariusz,Rikino,Engineer
+1989-06-10,Mariusz,Rikino,Senior Engineer
+1989-06-07,Mooi,Cooman,Engineer
+1989-06-07,Mooi,Cooman,Senior Engineer
+1989-06-05,Hiroyasu,Strandh,Senior Staff
+1989-06-05,Hiroyasu,Strandh,Staff
+1989-06-02,Pohua,Tasistro,Technique Leader
+1989-05-30,Beshir,Hellwagner,Engineer
+1989-05-28,Dante,Covnot,Senior Staff
+1989-05-28,Dante,Covnot,Staff
+1989-05-27,Weiyi,Codenie,Engineer
+1989-05-27,Weiyi,Codenie,Senior Engineer
+1989-05-22,Khun,Spieker,Engineer
+1989-05-11,Mona,Luck,Senior Staff
+1989-05-11,Shaleah,Eickenmeyer,Senior Staff
+1989-05-07,Susumu,Swiss,Senior Staff
+1989-05-07,Susumu,Swiss,Staff
+1989-05-04,Edwin,Haldar,Senior Staff
+1989-05-03,Fay,Bellmore,Engineer
+1989-05-03,Fay,Bellmore,Senior Engineer
+1989-04-30,Jouni,Munoz,Senior Staff
+1989-04-30,Jouni,Munoz,Staff
+1989-04-16,Makato,Remmers,Engineer
+1989-04-16,Makato,Remmers,Senior Engineer
+1989-04-13,Angus,Jullig,Engineer
+1989-04-13,Angus,Jullig,Senior Engineer
+1989-04-12,Huei,Saoudi,Technique Leader
+1989-04-10,Hatem,Birsak,Senior Staff
+1989-04-10,Hatem,Birsak,Staff
+1989-04-07,Herb,Murrill,Senior Engineer
+1989-04-05,Rayond,Schach,Engineer
+1989-04-05,Rayond,Schach,Senior Engineer
+1989-04-01,Shay,Heystek,Senior Staff
+1989-04-01,Shay,Heystek,Staff
+1989-03-30,Gaurav,Cheshire,Technique Leader
+1989-03-14,Cordelia,Gischer,Engineer
+1989-03-14,Cordelia,Gischer,Senior Engineer
+1989-03-14,Otmar,Rothenberg,Engineer
+1989-03-14,Otmar,Rothenberg,Senior Engineer
+1989-03-14,Shuichi,Nanard,Senior Engineer
+1989-03-08,Yuuichi,Conde,Assistant Engineer
+1989-03-08,Yuuichi,Conde,Engineer
+1989-03-08,Yuuichi,Conde,Senior Engineer
+1989-03-07,Charmane,Simmen,Senior Staff
+1989-03-07,Charmane,Simmen,Staff
+1989-03-05,Larisa,Kornyak,Technique Leader
+1989-03-03,Phillip,Schade,Engineer
+1989-03-03,Phillip,Schade,Senior Engineer
+1989-03-02,Chuanti,Luff,Senior Staff
+1989-03-02,Chuanti,Luff,Staff
+1989-03-01,Toong,Litecky,Senior Staff
+1989-03-01,Toong,Litecky,Staff
+1989-02-26,Froduald,Feldhoffer,Senior Engineer
+1989-02-26,Shakhar,Baik,Staff
+1989-02-25,Feiyu,Decleir,Technique Leader
+1989-02-21,Yahiko,Sommen,Senior Staff
+1989-02-19,Stabislas,Kakkad,Senior Staff
+1989-02-18,Tristan,Mitsuhashi,Engineer
+1989-02-18,Tristan,Mitsuhashi,Senior Engineer
+1989-02-17,Theron,Billawala,Assistant Engineer
+1989-02-17,Theron,Billawala,Engineer
+1989-02-17,Theron,Billawala,Senior Engineer
+1989-02-06,Phule,Dahlbom,Engineer
+1989-02-06,Phule,Dahlbom,Senior Engineer
+1989-02-03,Ramya,Walston,Senior Staff
+1989-02-03,Ramya,Walston,Staff
+1989-01-28,Guther,Rothenberg,Senior Staff
+1989-01-28,Guther,Rothenberg,Staff
+1989-01-25,Rafael,Skafidas,Engineer
+1989-01-25,Rafael,Skafidas,Senior Engineer
+1989-01-23,Dmitry,Velardi,Engineer
+1989-01-23,Dmitry,Velardi,Senior Engineer
+1989-01-22,Anwar,Bain,Engineer
+1989-01-22,Anwar,Bain,Senior Engineer
+1989-01-21,Hidekazu,Perna,Staff
+1989-01-21,Vojin,Laventhal,Engineer
+1989-01-21,Vojin,Laventhal,Senior Engineer
+1989-01-20,Ranga,Sommen,Senior Staff
+1989-01-20,Ranga,Sommen,Staff
+1989-01-15,Zejun,Broomell,Engineer
+1989-01-15,Zejun,Broomell,Senior Engineer
+1989-01-14,Steen,Gubsky,Senior Staff
+1989-01-14,Steen,Gubsky,Staff
+1989-01-13,Mary,Setiz,Senior Engineer
+1989-01-13,Yongdong,Jiang,Senior Staff
+1989-01-12,Tetsushi,Sridhar,Senior Staff
+1989-01-12,Tetsushi,Sridhar,Staff
+1989-01-11,Fayez,Keohane,Senior Staff
+1989-01-11,Ranan,Marsiglia,Staff
+1989-01-11,Shichao,Thiria,Assistant Engineer
+1989-01-11,Shichao,Thiria,Engineer
+1989-01-11,Shichao,Thiria,Senior Engineer
+1989-01-09,Filipp,Carrere,Technique Leader
+1989-01-05,Shounak,Dratva,Engineer
+1989-01-05,Shounak,Dratva,Senior Engineer
+1989-01-05,Trygve,Siksek,Staff
+1989-01-01,Jeanna,Chinen,Engineer
+1989-01-01,Jeanna,Chinen,Senior Engineer
+1988-12-28,Menkae,Chinin,Senior Engineer
+1988-12-26,Rasikan,Barreiro,Senior Staff
+1988-12-26,Rasikan,Barreiro,Staff
+1988-12-14,Xinglin,Mitsuhashi,Engineer
+1988-12-14,Xinglin,Mitsuhashi,Senior Engineer
+1988-12-12,Marek,Mitchem,Senior Engineer
+1988-12-11,Mechthild,Zongker,Senior Staff
+1988-12-09,Seshu,Kolvik,Technique Leader
+1988-12-07,Gio,Orsini,Senior Staff
+1988-12-07,Gio,Orsini,Staff
+1988-12-06,Manu,Rothenberg,Engineer
+1988-12-06,Manu,Rothenberg,Senior Engineer
+1988-12-05,Barry,Ramsak,Engineer
+1988-12-05,Barry,Ramsak,Senior Engineer
+1988-11-29,Tesuya,dAstous,Engineer
+1988-11-29,Tesuya,dAstous,Senior Engineer
+1988-11-28,Basem,Beausoleil,Engineer
+1988-11-22,Hitofumi,Zaccaria,Engineer
+1988-11-22,Hitofumi,Zaccaria,Senior Engineer
+1988-11-19,Ramya,Azadmanesh,Engineer
+1988-11-19,Ramya,Azadmanesh,Senior Engineer
+1988-11-18,Xuejun,Reeker,Senior Staff
+1988-11-18,Xuejun,Reeker,Staff
+1988-11-10,Hideyuki,Flanders,Engineer
+1988-11-10,Hideyuki,Flanders,Senior Engineer
+1988-11-07,Margareta,Bondorf,Engineer
+1988-11-07,Margareta,Bondorf,Senior Engineer
+1988-11-06,Tadanori,Msuda,Engineer
+1988-11-06,Tadanori,Msuda,Senior Engineer
+1988-11-05,Pranjal,Reinhard,Staff
+1988-11-04,Mayuko,Vural,Staff
+1988-10-30,Waiman,Genin,Engineer
+1988-10-30,Waiman,Genin,Senior Engineer
+1988-10-29,Gopalakrishnan,Mawatari,Senior Staff
+1988-10-29,Gopalakrishnan,Mawatari,Staff
+1988-10-21,Neven,Rikino,Engineer
+1988-10-21,Neven,Rikino,Senior Engineer
+1988-10-21,Remzi,Douceur,Engineer
+1988-10-21,Remzi,Douceur,Senior Engineer
+1988-10-18,Satyanarayana,Brandsma,Engineer
+1988-10-06,Sahrah,Rosis,Engineer
+1988-10-06,Sahrah,Rosis,Senior Engineer
+1988-10-04,Takushi,Strehl,Senior Staff
+1988-09-23,Yonghoan,Trogemann,Assistant Engineer
+1988-09-23,Yonghoan,Trogemann,Engineer
+1988-09-08,Yuriy,Plump,Senior Staff
+1988-09-08,Yuriy,Plump,Staff
+1988-09-05,Shunichi,Baer,Staff
+1988-09-03,Pascal,Bernatsky,Senior Staff
+1988-09-03,Pascal,Bernatsky,Staff
+1988-09-02,Shaunak,Brizzi,Assistant Engineer
+1988-09-02,Shaunak,Brizzi,Engineer
+1988-09-02,Shaunak,Brizzi,Senior Engineer
+1988-08-30,Bluma,Fetvedt,Senior Staff
+1988-08-30,Bluma,Fetvedt,Staff
+1988-08-29,Jeanna,Stemann,Engineer
+1988-08-29,Jeanna,Stemann,Senior Engineer
+1988-08-25,Lucien,Schwartzburd,Engineer
+1988-08-25,Lucien,Schwartzburd,Senior Engineer
+1988-08-13,Halsur,Ibel,Staff
+1988-08-13,Lena,Cannane,Engineer
+1988-08-08,Sanjoy,Porenta,Engineer
+1988-08-05,Dung,Leaver,Staff
+1988-08-02,Berry,Yurek,Senior Staff
+1988-08-02,Danae,Honglei,Engineer
+1988-08-01,Nitsan,Rouquie,Engineer
+1988-08-01,Nitsan,Rouquie,Senior Engineer
+1988-07-29,Charmane,Pargas,Engineer
+1988-07-29,Charmane,Pargas,Senior Engineer
+1988-07-28,Arnould,Gaughan,Engineer
+1988-07-28,Arnould,Gaughan,Senior Engineer
+1988-07-26,Chiranjit,Constantine,Engineer
+1988-07-26,Paloma,Gerlach,Engineer
+1988-07-26,Paloma,Gerlach,Senior Engineer
+1988-07-22,Zengping,Kakkar,Engineer
+1988-07-22,Zengping,Kakkar,Senior Engineer
+1988-07-20,Xinglin,Haldar,Senior Staff
+1988-07-20,Xinglin,Haldar,Staff
+1988-07-16,Djenana,Albarhamtoshy,Senior Staff
+1988-07-16,Djenana,Albarhamtoshy,Staff
+1988-07-14,Kousuke,Levasseur,Senior Staff
+1988-07-14,Kousuke,Levasseur,Staff
+1988-07-13,Ekawit,Schaft,Senior Staff
+1988-07-13,Ekawit,Schaft,Staff
+1988-07-07,Alejandra,Khasidashvili,Staff
+1988-07-05,Stamatina,Auyong,Senior Staff
+1988-07-04,Mandell,Alameldin,Senior Staff
+1988-07-04,Mandell,Alameldin,Staff
+1988-07-02,Atilio,Randi,Engineer
+1988-07-02,Atilio,Randi,Senior Engineer
+1988-07-02,Bezalel,Radivojevic,Senior Staff
+1988-07-02,Bezalel,Radivojevic,Staff
+1988-07-02,Make,Heuser,Engineer
+1988-07-02,Make,Heuser,Senior Engineer
+1988-06-29,Morris,Fargier,Senior Staff
+1988-06-29,Morris,Fargier,Staff
+1988-06-23,Krassimir,Garnier,Senior Staff
+1988-06-22,Shiv,Baezner,Engineer
+1988-06-22,Shiv,Baezner,Senior Engineer
+1988-06-22,Spyrose,Felder,Senior Engineer
+1988-06-18,Gill,Varman,Senior Staff
+1988-06-18,Gill,Varman,Staff
+1988-06-17,Abdelwaheb,Denis,Engineer
+1988-06-15,Yakkov,Samarati,Senior Staff
+1988-06-15,Yakkov,Samarati,Staff
+1988-06-12,Lenore,Badache,Staff
+1988-06-12,Mototsugu,Prampolini,Senior Staff
+1988-06-11,Ashish,Talmon,Engineer
+1988-06-11,Ashish,Talmon,Senior Engineer
+1988-06-10,Ingmar,Nannarelli,Senior Staff
+1988-06-05,Masoud,Suwa,Senior Staff
+1988-06-05,Masoud,Suwa,Staff
+1988-06-04,Bilhanan,Dusink,Senior Staff
+1988-06-04,Bilhanan,Dusink,Staff
+1988-06-04,Deborah,Kaminger,Senior Staff
+1988-06-04,Deborah,Kaminger,Staff
+1988-06-03,Ayonca,Matzov,Engineer
+1988-06-03,Ayonca,Matzov,Senior Engineer
+1988-05-31,Limsoon,Boudaillier,Senior Engineer
+1988-05-29,Miquel,Halloran,Senior Staff
+1988-05-29,Miquel,Halloran,Staff
+1988-05-18,Jiann,Munro,Senior Engineer
+1988-05-13,Adil,Kieras,Senior Engineer
+1988-05-13,Kristine,Bierman,Technique Leader
+1988-05-12,Diederik,Matzov,Engineer
+1988-05-12,Diederik,Matzov,Senior Engineer
+1988-05-11,Macha,Schnabel,Engineer
+1988-05-11,Macha,Schnabel,Senior Engineer
+1988-05-11,Premsyl,Lortz,Senior Staff
+1988-05-11,Premsyl,Lortz,Staff
+1988-05-08,Tetsushi,Tanemo,Engineer
+1988-05-08,Tetsushi,Tanemo,Senior Engineer
+1988-05-07,Stafford,Gist,Engineer
+1988-05-07,Stafford,Gist,Senior Engineer
+1988-05-06,Alenka,Barriga,Senior Staff
+1988-05-06,Alenka,Barriga,Staff
+1988-05-06,Zvonko,Murthy,Senior Staff
+1988-05-05,Mayuko,Clouatre,Engineer
+1988-05-01,Aiman,Mawatari,Engineer
+1988-05-01,Aiman,Mawatari,Senior Engineer
+1988-05-01,Sajjad,Waeselynck,Engineer
+1988-05-01,Surveyors,Bade,Senior Staff
+1988-05-01,Surveyors,Bade,Staff
+1988-04-27,Junsik,Berendt,Senior Engineer
+1988-04-24,Alexius,Ibel,Engineer
+1988-04-24,Alexius,Ibel,Senior Engineer
+1988-04-24,Kristinn,Olano,Senior Engineer
+1988-04-23,Zongyan,Dalphin,Engineer
+1988-04-23,Zongyan,Dalphin,Senior Engineer
+1988-04-20,Fumitaka,Quittner,Senior Staff
+1988-04-20,Fumitaka,Quittner,Staff
+1988-04-20,Otmar,Sudbeck,Staff
+1988-04-18,Kristina,Neimat,Technique Leader
+1988-04-18,Remco,Duclos,Senior Staff
+1988-04-18,Remco,Duclos,Staff
+1988-04-18,Xudong,Peck,Senior Engineer
+1988-04-15,Heping,Monarch,Senior Staff
+1988-04-15,Heping,Monarch,Staff
+1988-04-12,Abdelwaheb,Dulin,Senior Engineer
+1988-04-10,Godehard,Chorvat,Senior Staff
+1988-04-10,Godehard,Chorvat,Staff
+1988-04-09,Sanjoy,Barreiro,Senior Staff
+1988-04-09,Sanjoy,Barreiro,Staff
+1988-04-06,Jovan,Hockney,Engineer
+1988-04-06,Jovan,Hockney,Senior Engineer
+1988-04-06,Mayuko,Skafidas,Technique Leader
+1988-04-04,Sasan,Thimonier,Senior Staff
+1988-04-03,Jiang,Waschkowski,Engineer
+1988-04-03,Jiang,Waschkowski,Senior Engineer
+1988-03-31,Masasuke,Babu,Engineer
+1988-03-31,Masasuke,Babu,Senior Engineer
+1988-03-29,Niteen,Ebeling,Senior Staff
+1988-03-29,Niteen,Ebeling,Staff
+1988-03-25,Nevio,Thisen,Senior Staff
+1988-03-25,Nevio,Thisen,Staff
+1988-03-22,Bangqing,Schach,Senior Staff
+1988-03-22,Bangqing,Schach,Staff
+1988-03-22,Bezalel,Verhoeff,Engineer
+1988-03-22,Bezalel,Verhoeff,Senior Engineer
+1988-03-22,Kousuke,Worfolk,Senior Staff
+1988-03-22,Kousuke,Worfolk,Staff
+1988-03-21,Gilbert,Calkin,Senior Staff
+1988-03-21,Gilbert,Calkin,Staff
+1988-03-21,Xiong,Uhrik,Senior Engineer
+1988-03-17,Lobel,Werthner,Engineer
+1988-03-17,Lobel,Werthner,Senior Engineer
+1988-03-14,Stepehn,Bouloucos,Senior Staff
+1988-03-14,Stepehn,Bouloucos,Staff
+1988-03-13,Jacopo,Bellone,Technique Leader
+1988-03-12,Stafford,Terlouw,Assistant Engineer
+1988-03-10,Wojceich,Limongiello,Senior Staff
+1988-03-08,Takushi,Brattka,Staff
+1988-03-07,Manu,Rosiles,Senior Staff
+1988-03-01,Xiong,Roisin,Engineer
+1988-03-01,Xiong,Roisin,Senior Engineer
+1988-02-27,Sasan,Brookner,Senior Staff
+1988-02-27,Sasan,Brookner,Staff
+1988-02-27,Weidon,Pollacia,Senior Staff
+1988-02-27,Weidon,Pollacia,Staff
+1988-02-26,Golgen,Schoegge,Senior Staff
+1988-02-25,Fan,Kakkad,Senior Staff
+1988-02-25,Fan,Kakkad,Staff
+1988-02-24,Kenton,Miara,Engineer
+1988-02-24,Shigenori,Sullins,Senior Staff
+1988-02-23,Shin,Fujisaki,Technique Leader
+1988-02-22,Heping,Matheson,Engineer
+1988-02-22,Heping,Matheson,Senior Engineer
+1988-02-17,Garnik,Randt,Senior Staff
+1988-02-17,Garnik,Randt,Staff
+1988-02-16,Hausi,Kamber,Engineer
+1988-02-16,Hausi,Kamber,Senior Engineer
+1988-02-16,Vishv,Angelov,Senior Staff
+1988-02-16,Vishv,Angelov,Staff
+1988-02-16,Yongmin,Lanteri,Senior Staff
+1988-02-15,Brigham,Asmuth,Engineer
+1988-02-15,Brigham,Asmuth,Senior Engineer
+1988-02-15,Duri,Beznosov,Senior Engineer
+1988-02-10,Claudi,Heijenga,Senior Staff
+1988-02-10,Claudi,Heijenga,Staff
+1988-02-10,Martijn,Azevdeo,Senior Engineer
+1988-02-07,Chandrasekaran,Peek,Engineer
+1988-02-07,Chandrasekaran,Peek,Senior Engineer
+1988-02-05,Goetz,McAffer,Engineer
+1988-02-05,Goetz,McAffer,Senior Engineer
+1988-01-30,Stein,Uludag,Senior Staff
+1988-01-30,Stein,Uludag,Staff
+1988-01-28,Fumiko,Chepyzhov,Senior Staff
+1988-01-28,Fumiko,Chepyzhov,Staff
+1988-01-24,Nechama,Kandlur,Engineer
+1988-01-24,Nechama,Kandlur,Senior Engineer
+1988-01-21,Shiv,Aumann,Senior Engineer
+1988-01-18,Dannz,Ohori,Senior Staff
+1988-01-18,Dannz,Ohori,Staff
+1988-01-16,Takahira,Szilard,Senior Staff
+1988-01-16,Takahira,Szilard,Staff
+1988-01-16,Volkmar,Uhrik,Engineer
+1988-01-16,Volkmar,Uhrik,Senior Engineer
+1988-01-15,Jaewon,Boissier,Engineer
+1988-01-15,Jaewon,Boissier,Senior Engineer
+1988-01-15,Yannik,Falco,Technique Leader
+1988-01-13,Radoslaw,Maliniak,Staff
+1988-01-12,Jianhui,Cangellaris,Assistant Engineer
+1988-01-12,Jianhui,Cangellaris,Engineer
+1988-01-11,Khalil,Gien,Senior Engineer
+1988-01-07,Elzbieta,Morris,Engineer
+1988-01-07,Elzbieta,Morris,Senior Engineer
+1988-01-06,Anyuan,Hanratty,Senior Staff
+1988-01-06,Anyuan,Hanratty,Staff
+1988-01-06,Snehasis,Kalsbeek,Senior Staff
+1988-01-06,Snehasis,Kalsbeek,Staff
+1988-01-02,George,Miake,Senior Staff
+1988-01-02,George,Miake,Staff
+1988-01-01,Sedat,Itzigehl,Engineer
+1987-12-25,Alselm,Gargeya,Senior Engineer
+1987-12-23,Arunachalam,Magliocco,Senior Staff
+1987-12-23,Arunachalam,Magliocco,Staff
+1987-12-22,Kamakshi,Bahl,Senior Engineer
+1987-12-21,Erzsebet,Shigei,Senior Engineer
+1987-12-21,Florian,Siepmann,Engineer
+1987-12-21,Florian,Siepmann,Senior Engineer
+1987-12-21,Zita,Reistad,Senior Engineer
+1987-12-17,Jacqueline,Zallocco,Senior Staff
+1987-12-17,Jacqueline,Zallocco,Staff
+1987-12-13,Insup,Hainaut,Staff
+1987-12-13,Kensei,Salverda,Engineer
+1987-12-13,Kensei,Salverda,Senior Engineer
+1987-12-11,Torsten,Ranta,Engineer
+1987-12-11,Torsten,Ranta,Senior Engineer
+1987-12-09,Manohar,Kilgore,Staff
+1987-12-07,Dines,DeMori,Senior Staff
+1987-12-07,Dines,DeMori,Staff
+1987-12-07,Ranga,Waymire,Senior Staff
+1987-12-05,Shaowen,Eldridge,Senior Staff
+1987-12-05,Shaowen,Eldridge,Staff
+1987-12-03,Kirk,Zongker,Staff
+1987-12-02,Gennady,Liesche,Senior Staff
+1987-11-23,Bikash,Buchter,Senior Staff
+1987-11-23,Bikash,Buchter,Staff
+1987-11-21,Jeong,Cunliffe,Senior Staff
+1987-11-21,Suzette,Butterworth,Senior Engineer
+1987-11-19,Uma,Stranks,Senior Staff
+1987-11-19,Uma,Stranks,Staff
+1987-11-18,Kaijung,Mateescu,Senior Staff
+1987-11-18,Kaijung,Mateescu,Staff
+1987-11-13,Hironoby,Jakobus,Senior Staff
+1987-11-13,Hironoby,Jakobus,Staff
+1987-11-13,Jacopo,Krohm,Engineer
+1987-11-13,Jacopo,Krohm,Senior Engineer
+1987-11-12,Kristine,Clemencon,Senior Staff
+1987-11-12,Kristine,Clemencon,Staff
+1987-11-10,Shugo,Reeken,Staff
+1987-11-06,Katsuo,Hockney,Technique Leader
+1987-11-02,Uno,Jayawardene,Senior Staff
+1987-11-02,Uno,Jayawardene,Staff
+1987-11-01,Siamak,Gomatam,Engineer
+1987-10-23,Palash,Gammage,Senior Staff
+1987-10-23,Palash,Gammage,Staff
+1987-10-22,Jianhao,Molenaar,Engineer
+1987-10-22,Jianhao,Molenaar,Senior Engineer
+1987-10-22,Visit,McFarlan,Engineer
+1987-10-22,Visit,McFarlan,Senior Engineer
+1987-10-21,Jeanna,Rettelbach,Engineer
+1987-10-21,Jeanna,Rettelbach,Senior Engineer
+1987-10-20,Adel,Bressoud,Engineer
+1987-10-19,Dulce,Speel,Engineer
+1987-10-19,Dulce,Speel,Senior Engineer
+1987-10-13,Yucai,Simmen,Senior Staff
+1987-10-09,Ioana,Jakobus,Engineer
+1987-10-09,Ioana,Jakobus,Senior Engineer
+1987-10-07,Khosrow,Erez,Senior Staff
+1987-10-07,Khosrow,Erez,Staff
+1987-10-07,Steve,Dengi,Staff
+1987-10-04,Minghong,Cronin,Senior Staff
+1987-09-27,Georgi,Portugali,Technique Leader
+1987-09-25,Huei,Boguraev,Senior Staff
+1987-09-25,Huei,Boguraev,Staff
+1987-09-25,Zsolt,Riefers,Senior Staff
+1987-09-25,Zsolt,Riefers,Staff
+1987-09-23,Theron,Ressouche,Engineer
+1987-09-23,Theron,Ressouche,Senior Engineer
+1987-09-21,Filipp,Rousseau,Engineer
+1987-09-21,Filipp,Rousseau,Senior Engineer
+1987-09-20,Kokou,Iisaka,Senior Staff
+1987-09-20,Kokou,Iisaka,Staff
+1987-09-20,Shigehito,Duclos,Engineer
+1987-09-20,Shigehito,Duclos,Senior Engineer
+1987-09-20,Xinglin,Birge,Senior Staff
+1987-09-20,Xinglin,Birge,Staff
+1987-09-19,Oscal,Ernst,Senior Staff
+1987-09-19,Oscal,Ernst,Staff
+1987-09-18,Goetz,Alvarado,Engineer
+1987-09-18,Goetz,Alvarado,Senior Engineer
+1987-09-17,Dipayan,Geffroy,Senior Engineer
+1987-09-15,Adin,Scallan,Senior Staff
+1987-09-15,Adin,Scallan,Staff
+1987-09-13,Kauko,Fujisawa,Engineer
+1987-09-13,Kauko,Fujisawa,Senior Engineer
+1987-09-11,Troy,Kobuchi,Engineer
+1987-09-11,Troy,Kobuchi,Senior Engineer
+1987-09-10,Adel,Foote,Staff
+1987-09-09,Gregory,Collavizza,Senior Staff
+1987-09-09,Gregory,Collavizza,Staff
+1987-09-06,Roddy,Rubsam,Senior Engineer
+1987-09-05,Irena,Kaiserswerth,Senior Staff
+1987-09-05,Irena,Kaiserswerth,Staff
+1987-09-01,Rafael,Menhoudj,Senior Engineer
+1987-08-31,Augustine,Mungall,Engineer
+1987-08-31,Augustine,Mungall,Senior Engineer
+1987-08-30,Gennady,Rouquie,Senior Staff
+1987-08-29,Sudhanshu,Toyoshima,Senior Staff
+1987-08-29,Sudhanshu,Toyoshima,Staff
+1987-08-24,Hercules,Speer,Engineer
+1987-08-24,Hercules,Speer,Senior Engineer
+1987-08-22,Udi,Merks,Engineer
+1987-08-21,Fei,Gadepally,Assistant Engineer
+1987-08-21,Fei,Gadepally,Engineer
+1987-08-21,Yechezkel,Nourani,Senior Staff
+1987-08-21,Yechezkel,Nourani,Staff
+1987-08-18,Uno,Suppi,Staff
+1987-08-15,Fumiko,Deverell,Senior Staff
+1987-08-15,Fumiko,Deverell,Staff
+1987-08-10,Shuji,Barbanera,Senior Staff
+1987-08-10,Shuji,Barbanera,Staff
+1987-08-08,Hugh,Senzako,Technique Leader
+1987-08-08,Xiaocheng,Suermann,Engineer
+1987-08-06,Gay,Plavsic,Senior Staff
+1987-08-06,Gay,Plavsic,Staff
+1987-08-02,Susuma,Kleiser,Senior Staff
+1987-08-02,Susuma,Kleiser,Staff
+1987-07-28,Arve,Bergere,Engineer
+1987-07-28,Arve,Bergere,Senior Engineer
+1987-07-28,Baziley,Ballarin,Senior Staff
+1987-07-28,Baziley,Ballarin,Staff
+1987-07-28,Lokesh,Saoudi,Senior Staff
+1987-07-23,Moni,Kornyak,Technique Leader
+1987-07-17,Tetsurou,Schreiter,Senior Staff
+1987-07-17,Tetsurou,Schreiter,Staff
+1987-07-16,Baoqiu,Kakkar,Engineer
+1987-07-16,Kazuhisa,Melter,Senior Staff
+1987-07-16,Kazuhisa,Melter,Staff
+1987-07-15,Richara,Sudkamp,Senior Staff
+1987-07-15,Richara,Sudkamp,Staff
+1987-07-11,Sailaja,Holburn,Senior Staff
+1987-07-11,Sailaja,Holburn,Staff
+1987-07-10,Gunilla,Matzen,Senior Staff
+1987-07-10,Gunilla,Matzen,Staff
+1987-07-09,Chinhyun,Rassart,Senior Engineer
+1987-07-03,Mingzeng,Sadowski,Senior Engineer
+1987-06-30,Kirk,Quaggetto,Engineer
+1987-06-30,Kirk,Quaggetto,Senior Engineer
+1987-06-28,Ulf,Oberman,Senior Engineer
+1987-06-27,Mabhin,Foote,Engineer
+1987-06-26,Angel,Sichman,Senior Staff
+1987-06-26,Angel,Sichman,Staff
+1987-06-24,Arfst,Chepyzhov,Engineer
+1987-06-24,Arfst,Chepyzhov,Senior Engineer
+1987-06-24,Valery,Mersereau,Assistant Engineer
+1987-06-24,Zvonko,Serdy,Senior Staff
+1987-06-24,Zvonko,Serdy,Staff
+1987-06-23,Djenana,Marrevee,Engineer
+1987-06-23,Djenana,Marrevee,Senior Engineer
+1987-06-18,Mokhtar,Poupard,Technique Leader
+1987-06-18,Parke,Unno,Engineer
+1987-06-17,Hongzue,Barbanera,Senior Staff
+1987-06-17,Hongzue,Barbanera,Staff
+1987-06-17,Jianwen,Litzler,Engineer
+1987-06-17,Jianwen,Litzler,Senior Engineer
+1987-06-15,Wuxu,Garigliano,Senior Staff
+1987-06-15,Wuxu,Garigliano,Staff
+1987-06-13,Ziva,Kowalchuk,Engineer
+1987-06-13,Ziva,Kowalchuk,Senior Engineer
+1987-06-12,Roded,Picco,Assistant Engineer
+1987-06-07,Conor,Thorensen,Senior Engineer
+1987-06-05,Geraldo,Gerteisen,Senior Staff
+1987-06-05,Geraldo,Gerteisen,Staff
+1987-06-05,Wuxu,Trogemann,Senior Staff
+1987-06-04,Eberhardt,Barriga,Senior Staff
+1987-06-04,Eberhardt,Barriga,Staff
+1987-06-03,Aiman,Rosaz,Engineer
+1987-06-03,Aiman,Rosaz,Senior Engineer
+1987-06-01,Renny,Bednarek,Senior Staff
+1987-06-01,Renny,Bednarek,Staff
+1987-05-30,Hideyuki,Slaats,Senior Staff
+1987-05-30,Tadahiko,Pocchiola,Staff
+1987-05-28,Otmar,Brandsma,Engineer
+1987-05-28,Otmar,Brandsma,Senior Engineer
+1987-05-27,Aemilian,Kusalik,Engineer
+1987-05-27,Aemilian,Kusalik,Senior Engineer
+1987-05-20,Danae,Kragelund,Senior Staff
+1987-05-20,Danae,Kragelund,Staff
+1987-05-19,Manibrata,Genther,Engineer
+1987-05-19,Manibrata,Genther,Senior Engineer
+1987-05-19,Xiaoqiang,Cardazo,Senior Staff
+1987-05-18,Munehiro,Manders,Senior Staff
+1987-05-18,Munehiro,Manders,Staff
+1987-05-16,Barry,Unno,Senior Staff
+1987-05-16,Barry,Unno,Staff
+1987-05-16,Naftali,Kragelund,Senior Staff
+1987-05-16,Naftali,Kragelund,Staff
+1987-05-13,Perla,Orlowska,Senior Engineer
+1987-05-12,Mantis,Millington,Senior Staff
+1987-05-12,Mantis,Millington,Staff
+1987-05-10,Sadok,Lorys,Senior Staff
+1987-05-08,Adil,Matzke,Engineer
+1987-05-08,Adil,Matzke,Senior Engineer
+1987-04-27,Magdalena,Penn,Engineer
+1987-04-27,Magdalena,Penn,Senior Engineer
+1987-04-25,Uri,Lampe,Senior Staff
+1987-04-25,Uri,Lampe,Staff
+1987-04-23,Perry,Cooman,Senior Staff
+1987-04-23,Perry,Cooman,Staff
+1987-04-21,Marke,Klerer,Senior Staff
+1987-04-20,Mrinalini,Holburn,Senior Staff
+1987-04-15,Shaowen,Poulakidas,Senior Staff
+1987-04-15,Shaowen,Poulakidas,Staff
+1987-04-13,Shigenori,Hertweck,Engineer
+1987-04-13,Shigenori,Hertweck,Senior Engineer
+1987-04-13,Taiji,Jarecki,Engineer
+1987-04-13,Taiji,Jarecki,Senior Engineer
+1987-04-12,Anneli,Joslin,Senior Engineer
+1987-04-11,Shay,Servieres,Senior Staff
+1987-04-10,Abdulah,Pocchiola,Engineer
+1987-04-09,Gou,Thombley,Senior Engineer
+1987-04-09,Masako,Bonifati,Senior Staff
+1987-03-31,Pramod,Loncour,Senior Staff
+1987-03-31,Pramod,Loncour,Staff
+1987-03-29,Kamakshi,Manders,Staff
+1987-03-27,Boaz,Seuren,Senior Staff
+1987-03-27,Boaz,Seuren,Staff
+1987-03-25,Masamitsu,Back,Senior Staff
+1987-03-25,Masamitsu,Back,Staff
+1987-03-21,Sverrir,Gyimothy,Senior Staff
+1987-03-21,Sverrir,Gyimothy,Staff
+1987-03-20,Sailaja,Negoita,Assistant Engineer
+1987-03-20,Sailaja,Negoita,Engineer
+1987-03-20,Sailaja,Negoita,Senior Engineer
+1987-03-18,Mark,Lindqvist,Engineer
+1987-03-18,Mark,Lindqvist,Senior Engineer
+1987-03-07,Przemyslawa,Borovoy,Senior Staff
+1987-03-07,Przemyslawa,Borovoy,Staff
+1987-03-06,Serif,Gladwell,Senior Staff
+1987-03-06,Serif,Gladwell,Staff
+1987-03-04,Naftaly,Foong,Engineer
+1987-03-04,Naftaly,Foong,Senior Engineer
+1987-03-02,Ramya,Rossi,Senior Engineer
+1987-03-02,Yifei,Birjandi,Senior Staff
+1987-03-02,Yifei,Birjandi,Staff
+1987-03-01,Adamantios,Matzat,Senior Staff
+1987-03-01,Adamantios,Matzat,Staff
+1987-02-27,Boaz,Bottner,Staff
+1987-02-23,Kersti,Marsiglia,Engineer
+1987-02-20,Abdulla,Kitai,Senior Staff
+1987-02-20,Abdulla,Kitai,Staff
+1987-02-16,JoAnne,Baez,Senior Engineer
+1987-02-15,Feixiong,Schurmann,Senior Staff
+1987-02-15,Feixiong,Schurmann,Staff
+1987-02-14,Cheong,Uhrik,Engineer
+1987-02-14,Cheong,Uhrik,Senior Engineer
+1987-02-12,Guadalupe,Pfau,Senior Staff
+1987-02-12,Guadalupe,Pfau,Staff
+1987-02-11,Nathalie,Luke,Assistant Engineer
+1987-02-11,Nathalie,Luke,Engineer
+1987-02-11,Nathalie,Luke,Senior Engineer
+1987-02-11,Siamak,Luiz,Senior Engineer
+1987-02-09,Fabrizio,Lichtman,Engineer
+1987-02-09,Fabrizio,Lichtman,Senior Engineer
+1987-02-07,Aleksander,Schaaf,Senior Staff
+1987-02-07,Aleksander,Schaaf,Staff
+1987-01-31,Florian,Uhrig,Senior Staff
+1987-01-30,Anwar,Passafiume,Senior Staff
+1987-01-30,Anwar,Passafiume,Staff
+1987-01-29,Haldun,Lienhardt,Senior Staff
+1987-01-25,Subhada,Janetzko,Senior Engineer
+1987-01-25,Terresa,Peres,Senior Staff
+1987-01-25,Terresa,Peres,Staff
+1987-01-23,Arumugam,Nitta,Senior Engineer
+1987-01-22,Moti,Steenbeek,Engineer
+1987-01-22,Moti,Steenbeek,Senior Engineer
+1987-01-22,Oscar,Baumann,Engineer
+1987-01-22,Oscar,Baumann,Senior Engineer
+1987-01-18,Naraig,Jenevein,Senior Engineer
+1987-01-16,Jolita,Claffy,Senior Engineer
+1987-01-15,Heeju,Cappelli,Engineer
+1987-01-15,Heeju,Cappelli,Senior Engineer
+1987-01-15,Jamaludin,Nilsson,Senior Staff
+1987-01-15,Jamaludin,Nilsson,Staff
+1987-01-15,Qiwen,Kriebel,Senior Staff
+1987-01-15,Qiwen,Kriebel,Staff
+1987-01-14,Basem,Lortz,Staff
+1987-01-14,Tsutomu,Tetzlaff,Senior Staff
+1987-01-14,Tsutomu,Tetzlaff,Staff
+1987-01-07,Tzu,Sichman,Engineer
+1987-01-07,Tzu,Sichman,Senior Engineer
+1987-01-01,Sariel,Massonet,Senior Staff
+1987-01-01,Sariel,Massonet,Staff
+1986-12-27,Heeju,Lorys,Engineer
+1986-12-27,Heeju,Lorys,Senior Engineer
+1986-12-26,Shahaf,Kitai,Senior Staff
+1986-12-26,Shahaf,Kitai,Staff
+1986-12-25,Gill,Orlowska,Technique Leader
+1986-12-24,Chiranjit,Lyonns,Assistant Engineer
+1986-12-24,Chiranjit,Lyonns,Engineer
+1986-12-20,Poornachandra,Zielinski,Senior Staff
+1986-12-20,Poornachandra,Zielinski,Staff
+1986-12-19,Leszek,Spinelli,Staff
+1986-12-18,Nakhoon,Luga,Senior Staff
+1986-12-18,Nakhoon,Luga,Staff
+1986-12-16,Akemi,Fujisaki,Senior Engineer
+1986-12-16,Bedrich,Rosenbaum,Engineer
+1986-12-16,Bedrich,Rosenbaum,Senior Engineer
+1986-12-16,Munehiro,Iwayama,Engineer
+1986-12-16,Munehiro,Iwayama,Senior Engineer
+1986-12-15,Atreye,Kabayashi,Senior Engineer
+1986-12-15,Kersti,Miculan,Senior Staff
+1986-12-15,Kersti,Miculan,Staff
+1986-12-14,Keiichiro,Armand,Assistant Engineer
+1986-12-14,Keiichiro,Armand,Engineer
+1986-12-14,Keiichiro,Armand,Senior Engineer
+1986-12-14,Pranjal,Schapiro,Senior Staff
+1986-12-14,Pranjal,Schapiro,Staff
+1986-12-12,Fan,Marsiglia,Engineer
+1986-12-12,Fan,Marsiglia,Senior Engineer
+1986-12-11,Arnd,Peir,Senior Engineer
+1986-12-10,Saniya,Stenning,Senior Staff
+1986-12-10,Saniya,Stenning,Staff
+1986-12-10,Yongmin,Roccetti,Senior Staff
+1986-12-10,Yongmin,Roccetti,Staff
+1986-12-05,Aral,Hebden,Senior Staff
+1986-12-04,Utpal,Kemmerer,Senior Staff
+1986-12-04,Utpal,Kemmerer,Staff
+1986-12-02,Subhrajyoti,Denna,Staff
+1986-12-01,Marla,Cherinka,Technique Leader
+1986-11-26,Limsoon,Roohalamini,Senior Staff
+1986-11-26,Limsoon,Roohalamini,Staff
+1986-11-25,Randi,Tomescu,Assistant Engineer
+1986-11-25,Randi,Tomescu,Engineer
+1986-11-25,Randi,Tomescu,Senior Engineer
+1986-11-22,Babette,Anandan,Senior Staff
+1986-11-22,Babette,Anandan,Staff
+1986-11-21,Malu,Ossenbruggen,Senior Staff
+1986-11-21,Malu,Ossenbruggen,Staff
+1986-11-21,Paris,Restivo,Engineer
+1986-11-21,Paris,Restivo,Senior Engineer
+1986-11-18,Dinkar,Hoppenstand,Engineer
+1986-11-17,Aamod,Ranka,Senior Staff
+1986-11-15,Alair,Straney,Senior Staff
+1986-11-15,Alair,Straney,Staff
+1986-11-15,Yucai,Fabrizio,Staff
+1986-11-14,Kerhong,Matzke,Engineer
+1986-11-14,Kerhong,Matzke,Senior Engineer
+1986-11-14,Visit,Thiran,Engineer
+1986-11-14,Visit,Thiran,Senior Engineer
+1986-11-13,Shietung,Shrader,Senior Staff
+1986-11-11,Gio,Murtha,Engineer
+1986-11-11,Gio,Murtha,Senior Engineer
+1986-11-11,Hilari,Fairtlough,Technique Leader
+1986-11-11,Oguz,Schurmann,Assistant Engineer
+1986-11-11,Oguz,Schurmann,Engineer
+1986-11-10,Anneke,Hammerschmidt,Engineer
+1986-11-10,Ashish,Ratnaker,Senior Staff
+1986-11-10,Kazuhide,Fiutem,Senior Staff
+1986-11-10,Kazuhide,Fiutem,Staff
+1986-11-10,Lakshmi,Frijda,Engineer
+1986-11-10,Lakshmi,Frijda,Senior Engineer
+1986-11-10,Olivera,Hanabata,Senior Staff
+1986-11-10,Olivera,Hanabata,Staff
+1986-11-09,Zongyan,Shackel,Technique Leader
+1986-11-04,Frazer,Barbanera,Senior Staff
+1986-11-04,Frazer,Barbanera,Staff
+1986-11-04,Martins,Shokrollahi,Engineer
+1986-11-04,Martins,Shokrollahi,Senior Engineer
+1986-11-01,Arie,Coullard,Senior Staff
+1986-11-01,Arie,Coullard,Staff
+1986-10-31,Kristin,Guerreiro,Engineer
+1986-10-31,Kristin,Guerreiro,Senior Engineer
+1986-10-27,Yongqiao,Cochrane,Senior Staff
+1986-10-27,Yongqiao,Cochrane,Staff
+1986-10-22,Gaurav,Roison,Senior Staff
+1986-10-22,Gaurav,Roison,Staff
+1986-10-20,Gadiel,Perly,Senior Staff
+1986-10-20,Gadiel,Perly,Staff
+1986-10-20,Kolar,Hinsberger,Engineer
+1986-10-20,Kolar,Hinsberger,Senior Engineer
+1986-10-18,Kolar,Steenbeek,Senior Engineer
+1986-10-15,Fei,Erez,Engineer
+1986-10-15,Fei,Erez,Senior Engineer
+1986-10-06,Alassane,Wolniewicz,Engineer
+1986-10-06,Alassane,Wolniewicz,Senior Engineer
+1986-10-04,Lena,Kohling,Engineer
+1986-10-04,Lena,Kohling,Senior Engineer
+1986-09-29,Dipayan,Seghrouchni,Senior Staff
+1986-09-29,Dipayan,Seghrouchni,Staff
+1986-09-28,Jahangir,Hofting,Senior Staff
+1986-09-28,Jahangir,Hofting,Staff
+1986-09-21,Denis,Narlikar,Senior Staff
+1986-09-21,Denis,Narlikar,Staff
+1986-09-21,Florian,Pezzoli,Senior Staff
+1986-09-21,Florian,Pezzoli,Staff
+1986-09-17,Shigeaki,Lanteri,Engineer
+1986-09-17,Shigeaki,Lanteri,Senior Engineer
+1986-09-17,Tsutomu,Rebaine,Engineer
+1986-09-17,Tsutomu,Rebaine,Senior Engineer
+1986-09-16,Horward,Khasidashvili,Senior Engineer
+1986-09-16,Petter,Thummel,Technique Leader
+1986-09-15,Sigeru,Nivat,Senior Staff
+1986-09-15,Sigeru,Nivat,Staff
+1986-09-12,Shen,Flanders,Senior Staff
+1986-09-12,Shen,Flanders,Staff
+1986-09-10,Prodip,Ritcey,Senior Staff
+1986-09-10,Prodip,Ritcey,Staff
+1986-09-09,Chaosheng,Conta,Assistant Engineer
+1986-09-09,Chaosheng,Conta,Engineer
+1986-09-08,Falguni,Cherinka,Senior Engineer
+1986-09-06,Herbert,Erva,Engineer
+1986-09-06,Herbert,Erva,Senior Engineer
+1986-09-06,Pintsang,Fujisawa,Senior Staff
+1986-09-06,Pintsang,Fujisawa,Staff
+1986-09-06,Remmert,Schahn,Senior Staff
+1986-09-06,Remmert,Schahn,Staff
+1986-09-05,Anyuan,Kropatsch,Senior Staff
+1986-09-05,Anyuan,Kropatsch,Staff
+1986-09-03,Hongzhu,Ruemmler,Engineer
+1986-09-03,Uma,Prampolini,Engineer
+1986-09-03,Uma,Prampolini,Senior Engineer
+1986-09-02,Ung,Honglei,Senior Staff
+1986-09-02,Ung,Honglei,Staff
+1986-09-01,Gretta,Huttel,Senior Engineer
+1986-08-28,Kazunori,Perz,Senior Engineer
+1986-08-26,Teiji,Marrakchi,Senior Engineer
+1986-08-25,Hirochika,Goldhammer,Engineer
+1986-08-25,Panayotis,Lukaszewicz,Engineer
+1986-08-25,Panayotis,Lukaszewicz,Senior Engineer
+1986-08-23,Alagu,Vieri,Senior Staff
+1986-08-23,Alagu,Vieri,Staff
+1986-08-21,Mohan,Picht,Engineer
+1986-08-21,Mohan,Picht,Senior Engineer
+1986-08-11,Van,Nations,Technique Leader
+1986-08-08,Adamantios,Heemskerk,Senior Staff
+1986-08-06,Giordano,Maquelin,Senior Engineer
+1986-08-06,Shuji,Remmers,Senior Staff
+1986-08-06,Shuji,Remmers,Staff
+1986-08-02,Abdelghani,Nyrup,Senior Staff
+1986-08-02,Abdelghani,Nyrup,Staff
+1986-08-02,Hatsukazu,Rosca,Senior Staff
+1986-08-02,Hatsukazu,Rosca,Staff
+1986-08-01,Yuchang,Eldridge,Senior Staff
+1986-08-01,Yuchang,Eldridge,Staff
+1986-07-31,Luerbio,Terkki,Senior Staff
+1986-07-31,Luerbio,Terkki,Staff
+1986-07-30,Tonny,Kropf,Engineer
+1986-07-30,Tonny,Kropf,Senior Engineer
+1986-07-29,Caolyn,Ozeri,Engineer
+1986-07-29,Caolyn,Ozeri,Senior Engineer
+1986-07-27,Jacqueline,Akaboshi,Engineer
+1986-07-26,Ulises,Frolund,Senior Staff
+1986-07-26,Ulises,Frolund,Staff
+1986-07-23,Huican,Lunn,Senior Staff
+1986-07-23,Huican,Lunn,Staff
+1986-07-20,Toshiki,Ghazalie,Senior Staff
+1986-07-20,Toshiki,Ghazalie,Staff
+1986-07-20,Zdislav,Solares,Assistant Engineer
+1986-07-20,Zdislav,Solares,Engineer
+1986-07-19,Shaowei,Nicolson,Senior Staff
+1986-07-19,Shaowei,Nicolson,Staff
+1986-07-16,Jahangir,Kroft,Senior Staff
+1986-07-16,Jahangir,Kroft,Staff
+1986-07-16,Randi,Avouris,Engineer
+1986-07-16,Randi,Avouris,Senior Engineer
+1986-07-15,Hilari,Morton,Senior Staff
+1986-07-15,Hilari,Morton,Staff
+1986-07-12,Genevieve,Snedden,Senior Engineer
+1986-07-11,Masako,Kornatzky,Senior Engineer
+1986-07-04,Moni,Schach,Senior Staff
+1986-07-04,Moni,Schach,Staff
+1986-07-02,Constantijn,Lichtman,Senior Staff
+1986-07-02,Constantijn,Lichtman,Staff
+1986-07-02,LiMin,Teitelbaum,Engineer
+1986-07-02,LiMin,Teitelbaum,Senior Engineer
+1986-06-29,Abdulah,Lodder,Senior Staff
+1986-06-29,Abdulah,Lodder,Staff
+1986-06-28,Ashish,Candan,Senior Staff
+1986-06-28,Ayakannu,Heinisuo,Senior Staff
+1986-06-28,Foong,Aamodt,Senior Engineer
+1986-06-28,Surveyors,Crouzet,Senior Staff
+1986-06-28,Surveyors,Crouzet,Staff
+1986-06-24,Eldridge,Eldridge,Engineer
+1986-06-24,Eldridge,Eldridge,Senior Engineer
+1986-06-23,Pasqua,Taubman,Senior Staff
+1986-06-22,Chenxi,Sundgren,Senior Engineer
+1986-06-16,Shuky,Jakobus,Engineer
+1986-06-16,Shuky,Jakobus,Senior Engineer
+1986-06-15,Peer,Molberg,Engineer
+1986-06-15,Utz,Heuter,Senior Staff
+1986-06-15,Utz,Heuter,Staff
+1986-06-14,Mariangiola,Heyers,Technique Leader
+1986-06-14,Masami,Puoti,Senior Engineer
+1986-06-14,Udo,Waymire,Technique Leader
+1986-06-13,Danco,Luff,Engineer
+1986-06-13,Krister,Pappas,Staff
+1986-06-12,Fumiya,Griswold,Engineer
+1986-06-12,Fumiya,Griswold,Senior Engineer
+1986-06-10,Chanjung,Raoux,Engineer
+1986-06-10,Chanjung,Raoux,Senior Engineer
+1986-06-07,Bedrich,Isard,Senior Staff
+1986-06-04,Huei,Orsini,Engineer
+1986-06-04,Huei,Orsini,Senior Engineer
+1986-05-31,Bouchung,Bugrara,Senior Staff
+1986-05-31,Bouchung,Bugrara,Staff
+1986-05-30,Adas,Denti,Senior Staff
+1986-05-30,Adas,Denti,Staff
+1986-05-29,Manohar,Harllee,Senior Engineer
+1986-05-24,Dietrich,Crabtree,Senior Staff
+1986-05-24,Ung,Orlowski,Senior Staff
+1986-05-24,Ung,Orlowski,Staff
+1986-05-21,King,Benzmuller,Engineer
+1986-05-21,King,Benzmuller,Senior Engineer
+1986-05-20,Arunachalam,Oppitz,Senior Staff
+1986-05-20,Arunachalam,Oppitz,Staff
+1986-05-18,Aria,Kilgore,Engineer
+1986-05-18,Aria,Kilgore,Senior Engineer
+1986-05-13,Qunsheng,Birrer,Senior Staff
+1986-05-13,Qunsheng,Birrer,Staff
+1986-05-13,Val,Rissanen,Assistant Engineer
+1986-05-13,Val,Rissanen,Engineer
+1986-05-09,Fen,Genin,Senior Staff
+1986-05-08,Narain,Mikschl,Engineer
+1986-05-05,Tsutomu,Neiman,Senior Staff
+1986-05-05,Tsutomu,Neiman,Staff
+1986-05-03,Alain,Penn,Technique Leader
+1986-05-02,Hideo,Buchter,Staff
+1986-05-01,Anwar,Collette,Senior Engineer
+1986-04-28,Pintsang,Impagliazzo,Senior Staff
+1986-04-24,Gift,Solares,Senior Staff
+1986-04-21,Mart,Plumb,Senior Staff
+1986-04-13,Shimshon,Aingworth,Senior Staff
+1986-04-13,Shimshon,Aingworth,Staff
+1986-04-12,Zhongwei,Melski,Engineer
+1986-04-12,Zhongwei,Melski,Senior Engineer
+1986-04-06,Remzi,Mitzlaff,Senior Staff
+1986-03-30,Chriss,Fasbender,Staff
+1986-03-29,Kinh,Buchter,Engineer
+1986-03-29,Kinh,Buchter,Senior Engineer
+1986-03-29,Reuven,Oehlmann,Senior Staff
+1986-03-29,Reuven,Oehlmann,Staff
+1986-03-27,Weidon,Fordan,Senior Engineer
+1986-03-22,Feiyu,Hemaspaandra,Staff
+1986-03-22,Shridhar,Chleq,Assistant Engineer
+1986-03-22,Shridhar,Chleq,Engineer
+1986-03-22,Shridhar,Chleq,Senior Engineer
+1986-03-15,Domenico,Candan,Engineer
+1986-03-12,Mrinalini,Bierbaum,Engineer
+1986-03-12,Mrinalini,Bierbaum,Senior Engineer
+1986-03-11,Deniz,Thibadeau,Engineer
+1986-03-11,Deniz,Thibadeau,Senior Engineer
+1986-03-07,Jouni,Conia,Senior Staff
+1986-03-07,Jouni,Conia,Staff
+1986-03-02,Faiza,Garnham,Technique Leader
+1986-02-28,Holgard,Stavenow,Senior Staff
+1986-02-28,Holgard,Stavenow,Staff
+1986-02-28,Kendra,Junet,Senior Staff
+1986-02-28,Kendra,Junet,Staff
+1986-02-26,Shigehiro,Oxenboll,Senior Engineer
+1986-02-25,Berry,DeMori,Engineer
+1986-02-25,Berry,DeMori,Senior Engineer
+1986-02-18,Jungsoon,Bail,Senior Staff
+1986-02-18,Jungsoon,Bail,Staff
+1986-02-17,Franziska,Maginnis,Engineer
+1986-02-17,Franziska,Maginnis,Senior Engineer
+1986-02-14,Bodo,Schade,Senior Staff
+1986-02-14,Bodo,Schade,Staff
+1986-02-07,Zongyan,Gips,Technique Leader
+1986-02-06,Gopalakrishnan,Suermann,Engineer
+1986-02-06,Gopalakrishnan,Suermann,Senior Engineer
+1986-02-06,Leaf,Baak,Senior Staff
+1986-02-06,Leaf,Baak,Staff
+1986-02-01,Zhonghui,Conta,Staff
+1986-01-31,Leni,Kropatsch,Senior Engineer
+1986-01-31,Rosine,Lakshmanan,Engineer
+1986-01-31,Rosine,Lakshmanan,Senior Engineer
+1986-01-30,Giordano,Pietrzykowski,Senior Staff
+1986-01-29,Shahab,Crooks,Senior Staff
+1986-01-29,Shahab,Crooks,Staff
+1986-01-27,Haldun,Syang,Staff
+1986-01-25,Conal,Shackell,Senior Staff
+1986-01-25,Conal,Shackell,Staff
+1986-01-21,Christophe,Leaver,Staff
+1986-01-19,Fei,Murtagh,Senior Staff
+1986-01-19,True,Tischendorf,Engineer
+1986-01-19,True,Tischendorf,Senior Engineer
+1986-01-16,Nechama,Gaughan,Assistant Engineer
+1986-01-16,Nechama,Gaughan,Engineer
+1986-01-16,Nechama,Gaughan,Senior Engineer
+1986-01-14,Nimmagadda,Baak,Assistant Engineer
+1986-01-14,Nimmagadda,Baak,Engineer
+1986-01-12,Kannan,Meriste,Senior Engineer
+1986-01-08,Ziya,Tokunaga,Engineer
+1986-01-08,Ziya,Tokunaga,Senior Engineer
+1986-01-06,Shaowen,Segond,Engineer
+1986-01-06,Shaowen,Segond,Senior Engineer
+1986-01-06,Shugo,Yurek,Senior Staff
+1986-01-06,Shugo,Yurek,Staff
+1986-01-04,Hiroyasu,Seuren,Senior Engineer
+1986-01-02,Sudhanshu,Demian,Senior Staff
+1986-01-02,Sudhanshu,Demian,Staff
+1985-12-30,Bernd,Thummel,Assistant Engineer
+1985-12-30,Bernd,Thummel,Engineer
+1985-12-28,Sahrah,Angiulli,Senior Staff
+1985-12-28,Sahrah,Angiulli,Staff
+1985-12-25,Xiaobin,Christianini,Senior Staff
+1985-12-25,Xiaobin,Christianini,Staff
+1985-12-24,Mark,Lalonde,Staff
+1985-12-20,Kish,Turnbull,Engineer
+1985-12-20,Kish,Turnbull,Senior Engineer
+1985-12-16,Kauko,Narwekar,Engineer
+1985-12-16,Kauko,Narwekar,Senior Engineer
+1985-12-13,Arne,Kohling,Engineer
+1985-12-13,Arne,Kohling,Senior Engineer
+1985-12-08,Leon,Potthoff,Engineer
+1985-12-08,Leon,Potthoff,Senior Engineer
+1985-12-06,Divine,Hofmeyr,Technique Leader
+1985-12-04,Harngdar,Bernardinello,Engineer
+1985-12-04,Harngdar,Bernardinello,Senior Engineer
+1985-12-03,Zhiguo,Staudhammer,Engineer
+1985-12-03,Zhiguo,Staudhammer,Senior Engineer
+1985-12-02,Florina,Litecky,Senior Staff
+1985-12-02,Florina,Litecky,Staff
+1985-11-29,Karsten,Azadmanesh,Senior Engineer
+1985-11-25,Kazuhiko,Sidou,Technique Leader
+1985-11-25,Masanao,Papastamatiou,Engineer
+1985-11-25,Masanao,Papastamatiou,Senior Engineer
+1985-11-24,DAIDA,Nooteboom,Engineer
+1985-11-24,DAIDA,Nooteboom,Senior Engineer
+1985-11-24,Gully,Mitchem,Senior Staff
+1985-11-24,Gully,Mitchem,Staff
+1985-11-23,Michaela,Randi,Engineer
+1985-11-23,Michaela,Randi,Senior Engineer
+1985-11-22,Jaques,Navazio,Senior Staff
+1985-11-22,Jaques,Navazio,Staff
+1985-11-21,Vivian,Guerreiro,Assistant Engineer
+1985-11-21,Vivian,Guerreiro,Engineer
+1985-11-20,Hinrich,Perin,Engineer
+1985-11-20,Hinrich,Perin,Senior Engineer
+1985-11-18,Manton,Lueh,Senior Staff
+1985-11-18,Siddarth,Rosiles,Senior Engineer
+1985-11-18,Wuxu,Kuhnemann,Engineer
+1985-11-11,Kellie,Heydon,Engineer
+1985-11-11,Kellie,Heydon,Senior Engineer
+1985-11-11,Shigeu,Claffy,Engineer
+1985-11-09,Kazuhisa,Weiland,Senior Staff
+1985-11-09,Kazuhisa,Weiland,Staff
+1985-11-08,Randi,Samarati,Senior Staff
+1985-11-08,Randi,Samarati,Staff
+1985-11-07,Cathie,Peck,Engineer
+1985-11-07,Cathie,Peck,Senior Engineer
+1985-11-04,Demos,Asser,Senior Engineer
+1985-10-30,Fai,Maccarone,Senior Staff
+1985-10-30,Fai,Maccarone,Staff
+1985-10-30,Irena,Cesareni,Senior Staff
+1985-10-29,Zhenbing,Ibel,Senior Engineer
+1985-10-28,Sham,Kavanagh,Assistant Engineer
+1985-10-24,Sham,Vasanthakumar,Senior Staff
+1985-10-20,Xiaoqiu,Pietracaprina,Senior Engineer
+1985-10-18,Chandrasekaran,Pearson,Staff
+1985-10-17,Jamaludin,Fordan,Engineer
+1985-10-17,Jamaludin,Fordan,Senior Engineer
+1985-10-15,Chinhyun,Bauknecht,Senior Engineer
+1985-10-15,Moty,Sommen,Senior Engineer
+1985-10-13,Ghassan,Androutsos,Senior Staff
+1985-10-13,Ghassan,Androutsos,Staff
+1985-10-10,Lorien,Lagarias,Senior Staff
+1985-10-10,Lorien,Lagarias,Staff
+1985-10-09,Marjo,Delgrange,Senior Staff
+1985-10-09,Marjo,Delgrange,Staff
+1985-10-05,Hinrich,Hooghiemstra,Senior Staff
+1985-10-05,Hinrich,Hooghiemstra,Staff
+1985-10-04,Yagil,Remmers,Senior Staff
+1985-10-03,Weijing,Viele,Engineer
+1985-10-03,Weijing,Viele,Senior Engineer
+1985-10-02,Lijie,Garrabrants,Senior Staff
+1985-10-02,Lijie,Garrabrants,Staff
+1985-09-28,Ipke,Kieras,Engineer
+1985-09-28,Mahendra,Motley,Senior Staff
+1985-09-28,Mahendra,Motley,Staff
+1985-09-28,Richara,Walston,Senior Engineer
+1985-09-26,Pranas,Narwekar,Engineer
+1985-09-26,Pranas,Narwekar,Senior Engineer
+1985-09-25,Bernd,Anick,Senior Engineer
+1985-09-25,Masako,Dechter,Technique Leader
+1985-09-23,Vasilis,Waleschkowski,Engineer
+1985-09-20,Ipke,Schneeberger,Engineer
+1985-09-20,Ipke,Schneeberger,Senior Engineer
+1985-09-19,Gopalakrishnan,Angel,Engineer
+1985-09-19,Gopalakrishnan,Angel,Senior Engineer
+1985-09-17,Hironobu,Brodie,Engineer
+1985-09-17,Hironobu,Brodie,Senior Engineer
+1985-09-17,Xiadong,McClurg,Senior Staff
+1985-09-17,Xiadong,McClurg,Staff
+1985-09-14,Jaewon,Thummel,Senior Staff
+1985-09-14,Jaewon,Thummel,Staff
+1985-09-14,Rajmohan,DasSarma,Senior Staff
+1985-09-14,Rajmohan,DasSarma,Staff
+1985-09-14,Sreekrishna,Brender,Engineer
+1985-09-14,Sreekrishna,Brender,Senior Engineer
+1985-09-09,Fumiyo,Feinberg,Senior Staff
+1985-09-09,Fumiyo,Feinberg,Staff
+1985-09-08,Divier,Kumaresan,Senior Staff
+1985-09-08,Divier,Kumaresan,Staff
+1985-09-07,Kazuyasu,Schmiedel,Senior Staff
+1985-09-07,Kazuyasu,Schmiedel,Staff
+1985-09-06,Abdelghani,Lagarias,Engineer
+1985-09-06,Abdelghani,Lagarias,Senior Engineer
+1985-09-06,Fabrizio,Chleq,Senior Engineer
+1985-09-04,Atilio,Olivero,Engineer
+1985-09-04,Atilio,Olivero,Senior Engineer
+1985-09-01,Takahiro,Dalton,Technique Leader
+1985-08-29,Jagoda,Anguita,Senior Engineer
+1985-08-27,Shahid,Varman,Senior Staff
+1985-08-27,Shahid,Varman,Staff
+1985-08-24,Dmitry,Msuda,Senior Staff
+1985-08-24,Dmitry,Msuda,Staff
+1985-08-24,Faiza,Bach,Engineer
+1985-08-21,Subir,Miake,Engineer
+1985-08-21,Subir,Miake,Senior Engineer
+1985-08-19,Zsolt,Anily,Senior Staff
+1985-08-19,Zsolt,Anily,Staff
+1985-08-15,Lalit,Unni,Assistant Engineer
+1985-08-14,Arumugam,Vecchio,Engineer
+1985-08-14,Arumugam,Vecchio,Senior Engineer
+1985-08-09,Sumant,Thambidurai,Senior Staff
+1985-08-09,Sumant,Thambidurai,Staff
+1985-08-04,Juyoung,Peltason,Assistant Engineer
+1985-07-30,Shigeo,Linnainmaa,Senior Engineer
+1985-07-30,Shigeo,Merey,Senior Engineer
+1985-07-29,Chinho,Bottner,Assistant Engineer
+1985-07-29,Chinho,Bottner,Engineer
+1985-07-29,Chinho,Bottner,Senior Engineer
+1985-07-28,Zissis,Lodder,Engineer
+1985-07-24,Jaihie,Ozeri,Senior Staff
+1985-07-24,Jaihie,Ozeri,Staff
+1985-07-24,Xuejun,Pfau,Senior Staff
+1985-07-24,Xuejun,Pfau,Staff
+1985-07-22,Perry,Chachaty,Engineer
+1985-07-22,Perry,Chachaty,Senior Engineer
+1985-07-18,Michaela,Fandrianto,Senior Engineer
+1985-07-16,Yahiko,Hebden,Engineer
+1985-07-16,Yahiko,Hebden,Senior Engineer
+1985-07-15,Khalil,Picci,Engineer
+1985-07-15,Khalil,Picci,Senior Engineer
+1985-07-13,Anestis,Setlzner,Engineer
+1985-07-13,Anestis,Setlzner,Senior Engineer
+1985-07-11,Horward,Marzano,Staff
+1985-07-10,Rimon,Pietracaprina,Engineer
+1985-07-10,Rimon,Pietracaprina,Senior Engineer
+1985-07-09,Fun,Keirsey,Senior Staff
+1985-07-08,Poornachandra,Asser,Engineer
+1985-07-08,Sajjad,Vecchi,Senior Staff
+1985-07-08,Sajjad,Vecchi,Staff
+1985-07-07,Alain,Lieberherr,Engineer
+1985-07-07,Alain,Lieberherr,Senior Engineer
+1985-07-06,Heon,Broomell,Staff
+1985-07-05,Kolar,Greenaway,Staff
+1985-07-03,Huan,Roccetti,Senior Engineer
+1985-06-28,Emran,Miara,Engineer
+1985-06-28,Emran,Miara,Senior Engineer
+1985-06-28,Miquel,Legleitner,Senior Staff
+1985-06-28,Miquel,Legleitner,Staff
+1985-06-27,Yucai,Seghrouchni,Engineer
+1985-06-27,Yucai,Seghrouchni,Senior Engineer
+1985-06-22,Oksana,Redmiles,Engineer
+1985-06-22,Oksana,Redmiles,Senior Engineer
+1985-06-15,Mariangiola,Bolsens,Senior Staff
+1985-06-15,Mariangiola,Bolsens,Staff
+1985-06-07,Huei,Hutter,Engineer
+1985-06-07,Huei,Hutter,Senior Engineer
+1985-06-07,Takushi,Skogmar,Senior Staff
+1985-06-07,Takushi,Skogmar,Staff
+1985-06-06,Boalin,Birsak,Senior Staff
+1985-06-06,Boalin,Birsak,Staff
+1985-06-04,Parke,Staylopatis,Engineer
+1985-06-04,Parke,Staylopatis,Senior Engineer
+1985-06-03,Kotesh,Rajala,Engineer
+1985-06-03,Kotesh,Rajala,Senior Engineer
+1985-06-02,Jaana,Milicia,Senior Staff
+1985-06-02,Tamiya,Reutenauer,Senior Engineer
+1985-05-31,Herb,Picht,Assistant Engineer
+1985-05-31,Herb,Picht,Engineer
+1985-05-30,Matk,Chorvat,Senior Staff
+1985-05-30,Matk,Chorvat,Staff
+1985-05-28,Susuma,Kitsuregawa,Engineer
+1985-05-28,Susuma,Kitsuregawa,Senior Engineer
+1985-05-26,Jamaludin,Kandlur,Senior Engineer
+1985-05-25,Conor,Ghandeharizadeh,Senior Engineer
+1985-05-22,Susanne,Peternell,Engineer
+1985-05-22,Susanne,Peternell,Senior Engineer
+1985-05-21,Patricio,Itzfeldt,Senior Staff
+1985-05-21,Patricio,Itzfeldt,Staff
+1985-05-18,Chikako,Armand,Senior Engineer
+1985-05-18,Gor,Delgrande,Engineer
+1985-05-18,Gor,Delgrande,Senior Engineer
+1985-05-16,Theron,Itschner,Senior Staff
+1985-05-16,Theron,Itschner,Staff
+1985-05-15,Oldrich,Woycyznski,Engineer
+1985-05-15,Oldrich,Woycyznski,Senior Engineer
+1985-05-14,Berna,Ranst,Engineer
+1985-05-14,Berna,Ranst,Senior Engineer
+1985-05-11,Hsiangchu,Taubenfeld,Senior Staff
+1985-05-11,Hsiangchu,Taubenfeld,Staff
+1985-05-11,Mahmut,Lampe,Engineer
+1985-05-11,Mahmut,Lampe,Senior Engineer
+1985-05-11,Sudhanshu,Boissier,Engineer
+1985-05-11,Sudhanshu,Boissier,Senior Engineer
+1985-05-05,Tokuyasu,Ghelli,Engineer
+1985-05-05,Tokuyasu,Ghelli,Senior Engineer
+1985-04-27,Ewing,DiGiano,Technique Leader
+1985-04-25,Shooichi,Vandervoorde,Engineer
+1985-04-19,Shin,Piveteau,Engineer
+1985-04-19,Shin,Piveteau,Senior Engineer
+1985-04-16,DAIDA,Frolund,Engineer
+1985-04-16,DAIDA,Frolund,Senior Engineer
+1985-04-15,Kensyu,Tsunoo,Engineer
+1985-04-13,Doohun,Preusig,Technique Leader
+1985-04-09,Cedric,Riefers,Engineer
+1985-04-08,Insup,Reinhard,Senior Staff
+1985-04-08,Insup,Reinhard,Staff
+1985-04-08,Vugranam,Beausoleil,Staff
+1985-04-07,Fusako,Schwartzbauer,Senior Staff
+1985-04-07,Fusako,Schwartzbauer,Staff
+1985-04-04,Jackson,Zielinski,Senior Engineer
+1985-04-03,Jungsoon,Birsak,Technique Leader
+1985-04-02,Mack,Staylopatis,Engineer
+1985-04-02,Mack,Staylopatis,Senior Engineer
+1985-04-01,Arve,Worfolk,Senior Staff
+1985-04-01,Arve,Worfolk,Staff
+1985-03-30,Hisao,Ghemri,Senior Staff
+1985-03-30,Hisao,Ghemri,Staff
+1985-03-29,Perla,Jumpertz,Senior Staff
+1985-03-26,Koichi,Grabner,Senior Engineer
+1985-03-25,Shih,Shanbhogue,Staff
+1985-03-24,Domenico,Ratnaker,Engineer
+1985-03-24,Domenico,Ratnaker,Senior Engineer
+1985-03-23,Otmar,Birjandi,Engineer
+1985-03-23,Otmar,Birjandi,Senior Engineer
+1985-03-21,Pranjal,Juneja,Senior Engineer
+1985-03-20,Heping,Peac,Senior Staff
+1985-03-20,Heping,Peac,Staff
+1985-03-20,Thanasis,Standera,Senior Staff
+1985-03-20,Thanasis,Standera,Staff
+1985-03-18,Shuky,Redmiles,Senior Staff
+1985-03-15,Kwangjo,Hiltgen,Engineer
+1985-03-15,Shahaf,Luce,Senior Staff
+1985-03-14,Zhigen,Raney,Senior Staff
+1985-03-12,Byong,Gustavson,Senior Engineer
+1985-03-08,Bowen,Narwekar,Senior Engineer
+1985-03-07,Aiman,Gargeya,Engineer
+1985-03-07,Aiman,Gargeya,Senior Engineer
+1985-03-05,JoAnne,Anido,Staff
+1985-03-03,Francesca,Chorvat,Senior Staff
+1985-03-03,Francesca,Chorvat,Staff
+1985-03-02,Jiafu,Marchegay,Engineer
+1985-03-02,Jiafu,Marchegay,Senior Engineer
+1985-02-24,Luise,Vigier,Engineer
+1985-02-24,Luise,Vigier,Senior Engineer
+1985-02-23,Jaber,Sethi,Technique Leader
+1985-02-21,Danel,Petereit,Engineer
+1985-02-21,Danel,Petereit,Senior Engineer
+1985-02-20,Boguslaw,Snedden,Senior Staff
+1985-02-20,Boguslaw,Snedden,Staff
+1985-02-20,Leaf,Awdeh,Senior Staff
+1985-02-20,Leaf,Awdeh,Staff
+1985-02-18,Toshimitsu,Sluis,Senior Engineer
+1985-02-16,Shuzo,Czaja,Staff
+1985-02-16,Ziya,Kadhim,Senior Engineer
+1985-02-15,Willard,Morrin,Senior Staff
+1985-02-15,Willard,Morrin,Staff
+1985-02-13,Jeong,Undy,Senior Staff
+1985-02-13,Jeong,Undy,Staff
+1985-02-12,Hein,Jonsson,Senior Staff
+1985-02-12,Hein,Jonsson,Staff
+1985-02-11,Mariusz,Tokunaga,Senior Engineer
+1985-02-10,Oldrich,Cyre,Engineer
+1985-02-10,Oldrich,Cyre,Senior Engineer
+1985-02-09,Bogdan,Bahi,Engineer
+1985-02-09,Bogdan,Bahi,Senior Engineer
+1985-02-09,Gonzalo,Binkley,Engineer
+1985-02-09,Gonzalo,Binkley,Senior Engineer
+1985-02-06,Jasminko,Bresenham,Senior Staff
+1985-02-06,Jasminko,Bresenham,Staff
+1985-02-02,Miyeon,Billingsley,Senior Engineer
