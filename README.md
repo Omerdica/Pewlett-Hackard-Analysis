@@ -4,20 +4,20 @@ As we start to near the end of compiling data for Pewlett Hackard we are asked t
 
 # Results 
 
-We start to focus on the first part of our data which includes information on employees who are retiring based on their titles. As we look at the data we realize that there are currently 
-133,777 employees who are eligible for retirement. 
+* We start to focus on the first part of our data which includes information on employees who are retiring based on their titles. 
+As we look at the data we realize that there are currently 133,777 employees who are eligible for retirement. 
 
 ![CODE1](Images/retirement_titles.png)
 
-When we take a closer look we see that some of the employees show up in our csv files multiple times and that is beacuse over the years of their employees could have switched job titles or took early retirement. After we created a code to remove all the duplicates nearly half of the employees were removed from the original list of 133,777.
+* When we take a closer look we see that some of the employees show up in our csv files multiple times and that is beacuse over the years of their employees could have switched job titles or took early retirement. After we created a code to remove all the duplicates nearly half of the employees were removed from the original list of 133,777.
 
 ![CODE1](Images/unique_titles.png)
 
-For us to have a better understanding we created a code to tell us exactly which titles will need the most attention. 
+* For us to have a better understanding we created a code to tell us exactly which titles will need the most attention. 
 
 ![CODE1](Images/retiring_titles.png)
 
-Next, we look at the mentorship eligibility. With creating this csv file we can see how many current employees could be mentored to replace some of the employees that are retiring. While creating this code we had to focus on their birth date and when they started with the company. 
+* Next, we look at the mentorship eligibility. With creating this csv file we can see how many current employees could be mentored to replace some of the employees that are retiring. While creating this code we had to focus on their birth date and when they started with the company. 
 
 ![CODE1](Images/mentorship_eligibilty.png)
 
